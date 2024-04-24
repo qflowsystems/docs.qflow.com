@@ -1,4 +1,4 @@
-@import "./color_schemes/dark";
+// @import "./color_schemes/dark";
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
 
 $body-font-family: 'Lato', -apple-system, blinkmacsystemfont, "Segoe UI",
@@ -42,7 +42,7 @@ $grey-lt-200: #ADADAD;
 $grey-lt-300: #8F8F8F;
 
 
-$link-color: $primary-000;
+$link-color: $primary-300;
 $body-background-color: $white !default;
 $body-heading-color: $primary-300;
 $body-text-color: $brand-dark !default;
@@ -58,23 +58,24 @@ $table-background-color: $white !default;
 $search-result-preview-color: $grey-dk-300;
 
 h1, h2, h3, h4, h5 {
-    font-weight: 650 !important;
+    font-weight: 800 !important;
+    font-style:italic;
     // font-family: 'Red Hat Display', Arial, Helvetica, sans-serif !important;
 }
 h1 {
-    color: $primary-000 !important;
+    color: $primary-300 !important;
 }
 
 h2 {
-    color: $blue-000 !important;
+    color: $primary-200 !important;
 }
 
 h3 {
-    color: $green-300 !important;
+    color: $primary-100 !important;
 }
 
 h4 {
-    color: $yellow-000 !important;
+    color: $green-000 !important;
 }
 
 h5 {
@@ -87,6 +88,6 @@ h6 {
 
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
     background-image: none !important;
-    background-color: rgba(255,255,255, 0.1);
+    background-color: rgba(0,0,0, 0.1);
 }
 
