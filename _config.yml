@@ -3,3 +3,31 @@ description: Getting Started
 theme: just-the-docs
 
 url: https://qflowsystems.github.io/docs.qflow.com
+
+color_scheme: custom
+logo: "/assets/svg/logo.svg"
+favicon_ico: "/assets/svg/favicon.svg"
+
+callouts:
+  note:
+    title: Note
+    color: purple
+  highlight:
+    color: yellow
+  important:
+    color: note
+  new:
+    title: New
+    color: green
+  warning:
+    title: Warning
+    color: red
+
+search_enabled: true
+heading_anchors: true
+nav_enabled: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"

@@ -1,0 +1,92 @@
+@import "./color_schemes/dark";
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+
+$body-font-family: 'Lato', -apple-system, blinkmacsystemfont, "Segoe UI",
+  roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+$mono-font-family: 'Red Hat Mono', menlo, consolas, monospace !default;
+$primary-000: #2685E3;
+$primary-100: #1a70c7;
+$primary-200: #155ca2;
+$primary-300: #10477E;
+$red-000: #E79588;
+$red-100: #E17666;
+$red-200: #DA5844;
+$red-300: #CC3E28;
+$blue-000: #11B0DE;
+$blue-100: #0E98BE;
+$blue-200: #0b7998;
+$blue-300: #085b72;
+$green-000: #1BDA91;
+$green-100: #19C885;
+$green-200: #16B679;
+$green-300: #14a36d;
+$purple-000: #be60bb;
+$purple-100: #ae47aa;
+$purple-200: #913B8E;
+$purple-300: #6B2C69;
+$orange-000: #EB8D3D;
+$orange-100: #EB8D3D;
+$orange-200: #EB8D3D;
+$orange-300: #EB8D3D;
+$yellow-000: #FFD046;
+$yellow-100: #FFD046;
+$yellow-200: #FFD046;
+$yellow-300: #FFD046;
+$grey-dk-000: #34425B;
+$grey-dk-100: #252F41;
+$grey-dk-200: #161C27;
+$grey-dk-300: #080A0E;
+$grey-lt-000: #D8D8D8;
+$grey-lt-100: #CCCCCC;
+$grey-lt-200: #ADADAD;
+$grey-lt-300: #8F8F8F;
+
+
+$link-color: $primary-000;
+$body-background-color: $white !default;
+$body-heading-color: $primary-300;
+$body-text-color: $brand-dark !default;
+// $nav-child-link-color: $grey-dk-100 !default;
+$nav-child-link-color: $grey-dk-100 !default;
+$sidebar-color: $grey-lt-000 !default;
+$base-button-color: $purple-300 !default;
+$btn-primary-color: $green-000;
+$code-background-color: $grey-lt-000 !default;
+// $feedback-color: darken($green-do-100, 3%);
+$feedback-color: darken($grey-lt-100, 3%);
+$table-background-color: $white !default;
+$search-result-preview-color: $grey-dk-300;
+
+h1, h2, h3, h4, h5 {
+    font-weight: 650 !important;
+    // font-family: 'Red Hat Display', Arial, Helvetica, sans-serif !important;
+}
+h1 {
+    color: $primary-000 !important;
+}
+
+h2 {
+    color: $blue-000 !important;
+}
+
+h3 {
+    color: $green-300 !important;
+}
+
+h4 {
+    color: $yellow-000 !important;
+}
+
+h5 {
+    color: $orange-000 !important;
+}
+
+h6 {
+    color: $red-000 !important;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+    background-image: none !important;
+    background-color: rgba(255,255,255, 0.1);
+}
+
