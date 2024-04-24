@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Custom Objects
-nav_order: 2
-has_children: false
+nav_order: 4
+has_children: true
 has_toc: false
 ---
 
