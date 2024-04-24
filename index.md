@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 Welcome to the QAction Documentation. 
