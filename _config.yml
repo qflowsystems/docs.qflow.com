@@ -11,14 +11,14 @@ favicon_ico: "/assets/svg/favicon.svg"
 callouts:
   note:
     title: Note
-    color: purple
+    color: green
   highlight:
     color: yellow
   important:
     color: note
   new:
     title: New
-    color: green
+    color: primary
   warning:
     title: Warning
     color: red
