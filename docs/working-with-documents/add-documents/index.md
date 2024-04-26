@@ -2,7 +2,7 @@
 layout: default
 title: Upload Documents
 nav_order: 9
-parent: Working With Documents
+parent: Working with Documents
 has_children: true
 has_toc: false
 ---
@@ -26,7 +26,7 @@ The Upload Documents window appears.
 Password-protected PDFs are not allowed to be added to Q-Action, and you will see an error message if you attempt to upload one.  
 See [Handling Add Document Errors](Add_Document_Errors.htm) for what to do in the event that adding a document is unsuccessful for other reasons.
 4.  Review these optional actions you can take to manage your upload queue:  
-    ![](../../../assets/images/Upload Documents Window/upload-documents-uploading-multiple.png)
+    ![](../../../assets/images/upload-documents-uploading-multiple.png)
     *   If desired, click the Download icon (![](../../../assets/images/icon-download-document.png)) to download a file in the upload queue.  This is useful if you leave the Upload Documents screen without finishing adding all of the documents and need to remind yourself of what documents were in process. For PDFs, you can alternatively click the **Preview** icon (![](../../../assets/images/preview-icon.png)) to preview the PDF in the browser.
     *   You can also add notes to the documents to help yourself remember what each document is in case you need to come back and index it later. To do so simply click on the message "Click to add a temporary note" and type over it.  Your note will be saved whenever you click elsewhere on the screen.
     *   Sort by Name or Date Created by clicking on the desired text at the top of the screen.  Change the order of the sort by clicking a second time on the desired text.

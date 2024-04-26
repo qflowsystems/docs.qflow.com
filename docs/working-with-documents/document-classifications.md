@@ -2,7 +2,7 @@
 layout: default
 title: Document Classifications
 nav_order: 2
-parent: Working With Documents
+parent: Working with Documents
 has_toc: false
 ---
 # Document Classifications

@@ -15,7 +15,8 @@ callouts:
   highlight:
     color: yellow
   important:
-    color: note
+    title: Important
+    color: grey-lt
   new:
     title: New
     color: primary

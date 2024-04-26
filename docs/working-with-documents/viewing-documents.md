@@ -2,7 +2,7 @@
 layout: default
 title: Viewing Documents
 nav_order: 1
-parent: Working With Documents
+parent: Working with Documents
 has_toc: false
 ---
 # Viewing Documents
