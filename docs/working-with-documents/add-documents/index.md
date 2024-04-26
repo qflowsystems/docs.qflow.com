@@ -47,4 +47,4 @@ See [Handling Add Document Errors](Add_Document_Errors.htm) for what to do in th
     Refer to [Adding Documents in Batches](Adding_Documents_in_Batch.htm) for more information.
 10.  After all the documents are uploaded, the index information is added, and Add Document or Add Batch is selected for each document, close the window.
 
-If the window is closed before all documents are added, you can return to complete any incomplete documents by clicking the Add Document link or shortcut (![](../../../assets/images/add-shortcut.png)) again.  Another user can do this for you if, for instance, you are out on vacation.  Simply [set someone up as a proxy](q-action_um_topics/Configuring_User_Proxies.htm) before you leave.
+If the window is closed before all documents are added, you can return to complete any incomplete documents by clicking the Add Document link or shortcut (![](../../../assets/images/add-shortcut.png)) again.  Another user can do this for you if, for instance, you are out on vacation.  Simply [set someone up as a proxy](/docs/administrator-roles/index.html) before you leave.
