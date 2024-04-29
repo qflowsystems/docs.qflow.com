@@ -10,18 +10,18 @@ favicon_ico: "/assets/svg/favicon.svg"
 
 callouts:
   note:
-    title: Note
+    title: " Note"
     color: green
   highlight:
     color: yellow
   important:
-    title: Important
+    title: " Important"
     color: orange
   new:
-    title: New
+    title: " New"
     color: primary
   warning:
-    title: Warning
+    title: " Warning"
     color: red
 
 search_enabled: true
