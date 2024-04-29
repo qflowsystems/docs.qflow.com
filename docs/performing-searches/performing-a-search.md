@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Tutorial: Performing a Search"
+title: Performing a Search
 nav_order: 2
 parent: Performing Searches
 has_toc: false
 ---
-# Tutorial: Performing a Search
+# Performing a Search
 ---
 
 Follow the steps below to walk through a simple Document search.
