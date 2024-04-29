@@ -2,7 +2,7 @@
 layout: default
 title: Add Document from URL
 nav_order: 3
-parent: Upload Documents
+parent: Add Documents
 grand_parent: Working with Documents
 has_children: false
 has_toc: false

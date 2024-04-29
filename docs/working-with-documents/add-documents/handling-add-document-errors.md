@@ -2,7 +2,7 @@
 layout: default
 title: Handling Add Document Errors
 nav_order: 6
-parent: Upload Documents
+parent: Add Documents
 grand_parent: Working with Documents
 has_children: false
 has_toc: false

@@ -2,7 +2,7 @@
 layout: default
 title: Adding Documents in Batches
 nav_order: 7
-parent: Upload Documents
+parent: Add Documents
 grand_parent: Working with Documents
 has_children: false
 has_toc: false

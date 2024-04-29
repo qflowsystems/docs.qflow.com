@@ -2,7 +2,7 @@
 layout: default
 title: Add Documents to a Folder
 nav_order: 4
-parent: Upload Documents
+parent: Add Documents
 grand_parent: Working with Documents
 has_children: false
 has_toc: false

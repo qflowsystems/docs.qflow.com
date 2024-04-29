@@ -2,7 +2,7 @@
 layout: default
 title: Configure a Default Classification for New Documents
 nav_order: 5
-parent: Upload Documents
+parent: Add Documents
 grand_parent: Working with Documents
 has_children: false
 has_toc: false

@@ -2,7 +2,7 @@
 layout: default
 title: Add Multiple Copies Using Primary Fields
 nav_order: 8
-parent: Upload Documents
+parent: Add Documents
 grand_parent: Working with Documents
 has_children: false
 has_toc: false
