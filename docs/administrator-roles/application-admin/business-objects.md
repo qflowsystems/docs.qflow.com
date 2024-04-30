@@ -16,9 +16,7 @@ The following sections describe the various activities that a application admini
 {:toc}
 
 ## Overview
-A business object, also called a [custom object,](https://qaprod.qflow.com/QAction_help//Custom_Objects_Overview.htm) is multiple fields associated with information about a person, place, or thing. This static content is viewed by end users, but administrators can create or modify a custom object's configuration on the Business Objects screen. 
-
-You can add custom objects to (1) [another custom object](https://qaprod.qflow.com/QAction_help//admin-topics/Adding_a_Custom_Object_Field_to_a_Custom_Object.htm), (2) [folder definitions](https://qaprod.qflow.com/QAction_help//Creating_Folder_Definitions.htm), (3) [classifications](https://qaprod.qflow.com/QAction_help//Classification_Index_fields.htm), or (4) the [left navigation pane](https://qaprod.qflow.com/QAction_help//Creating_Customized_Search_Screens_in_the_Left_Navigation_Pane.htm). These are the main instances when an end-user views custom objects.
+A business object, also called a [custom object,](/docs/custom-objects/) is multiple fields associated with information about a person, place, or thing. This static content is viewed by end users, but administrators can create or modify a custom object's configuration on the Business Objects screen. 
 
 Use this screen to do the following:
 - Create or modify a custom object.
@@ -44,14 +42,14 @@ The Add or Modify Object Definition window appears.
 
 The rest of the screen is organized into tabs, which you can learn more about by clicking the links below.
 
-- Use the **Fields** tab to [add and modify index fields](https://qaprod.qflow.com/QAction_help//Adding_Fields_to_a_Custom_Object.htm) on the object.
+- Use the **Fields** tab to [add and modify index fields](/docs/administrator-roles/application-admin/business-objects#adding-fields-to-a-custom-object) on the object.
 - Default Security tab - Organizations and their subgroups appear. When an end-user adds an entry to the application using a custom object field, you can grant permissions to user groups so that the end-user can view, add, edit, or delete individual instances of custom object entries. Other organizations or users can be added in order to determine who has permissions to adjust these objects.
     
-- Security by Type tab - The Type Field drop-down list appears so that you can [apply unique security settings for specific field types](https://qaprod.qflow.com/QAction_help//Configuring_Custom_Object_Security_Settings.htm).
+- Security by Type tab - The Type Field drop-down list appears so that you can [apply unique security settings for specific field types](/docs/administrator-roles/application-admin/business-objects#configuring-custom-object-security-settings).
     
-- Use the **Disposition** tab to [configure record policies](https://qaprod.qflow.com/QAction_help//Creating_a_Record_Policy.htm) for the object
+- Use the **Disposition** tab to [configure record policies](/docs/records-management/create-a-record-policy) for the object
     
-- The [Priority Search Fields](https://qaprod.qflow.com/QAction_help//Priority_Search_Fields.htm) tab lets you define which fields the system should use for the top search bar on custom object search screens as well as suggestions when users are typing in values for a custom object field.
+- The [Priority Search Fields](/docs/administrator-roles/priority-search-fields) tab lets you define which fields the system should use for the top search bar on custom object search screens as well as suggestions when users are typing in values for a custom object field.
 
 ## Adding Fields to a Custom Object
 1. Click Administration > Custom Objects.  
@@ -157,7 +155,7 @@ Modifying a label helps identify search results faster. Labels correspond with h
 There are two ways to configure security settings for a custom object.
 
 - The **Default Security** tab lets you set a default security configuration for the custom object.  This is likely what you will want to do for most custom objects.
-- The **Security by Type** tab lets you set custom security configurations for the custom object depending on the value of a particular field on the custom object.  This can only be done for custom objects with a [List of Values](https://qaprod.qflow.com/QAction_help//List_of_Values_Maintenance_Screen.htm) field.
+- The **Security by Type** tab lets you set custom security configurations for the custom object depending on the value of a particular field on the custom object.  This can only be done for custom objects with a [List of Values](/docs/administrator-roles/application-admin/list-values-maintenance) field.
 
 Follow the steps below to configure security on a custom object.
 
