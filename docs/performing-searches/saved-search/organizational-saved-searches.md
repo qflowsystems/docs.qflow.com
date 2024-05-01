@@ -24,4 +24,4 @@ If you as a normal user want to modify an Organizational Saved Search for your o
 Save Options Menu  
 ![](../../../assets/images/save-options-drop-down.png)
 
-Then, if you want, you can hide the Organizational Saved Search as described in [Organizing the Left-Hand Menu](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches.md).  Note that this will only change the search for you, and any changes the Saved Search Manager makes to the search will only be reflected in the Organizational Saved Search, not your new Personal Saved Search.
+Then, if you want, you can hide the Organizational Saved Search as described in [Organizing the Left-Hand Menu](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches/).  Note that this will only change the search for you, and any changes the Saved Search Manager makes to the search will only be reflected in the Organizational Saved Search, not your new Personal Saved Search.
