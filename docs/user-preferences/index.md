@@ -49,8 +49,8 @@ Access your user profile to configure your preferences and proxies.
 
 A proxy is a user who can log in as you to perform certain maintenance actions, for instance if you are on vacation. When one user chooses to proxy as another user, the proxy user’s workspace appears. This means:
 
-- Any [Saved Searches](https://qaprod.qflow.com/QAction_help//Saved_Searches_Overview.htm) associated with the proxy user appear in the left navigation pane accordingly. The Organize button is unavailable because one user cannot make changes to another user’s navigation pane. Users cannot modify proxy user searches.
-- Any documents that were in the proxy user's Upload queue appear on the [Upload Documents](https://qaprod.qflow.com/QAction_help//Upload_Documents.htm) screen.  Documents on this screen can be added to the system or removed from the queue, but no new documents may be added to the queue.
+- Any [Saved Searches](/docs/performing-searches/saved-search/) associated with the proxy user appear in the left navigation pane accordingly. The Organize button is unavailable because one user cannot make changes to another user’s navigation pane. Users cannot modify proxy user searches.
+- Any documents that were in the proxy user's Upload queue appear on the [Upload Documents](/docs/working-with-documents/add-documents/upload-documents) screen.  Documents on this screen can be added to the system or removed from the queue, but no new documents may be added to the queue.
 
 Follow the steps below to setup another user's ability to proxy for you.
 1. Locate and click your username on the top-right of any Q-Action screen, and click Profile.  

@@ -31,5 +31,5 @@ Example Simple Custom Object
   When tabs do show up, the tabs that you see will vary based on how the Custom Object has been configured.  Click the links below to learn more about the standard tabs you might see.  
  
 
-*   [Documents](Documents_Tab_on_Custom_Objects.htm)
-*   [Notes](Notes_Tab_on_Custom_Objects.htm)
+*   [Documents](docs/custom-objects/documents-tab-on-custom-objects)
+*   [Notes](/docs/custom-objects/notes-tab-on-custom-objects)
