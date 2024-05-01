@@ -43,4 +43,4 @@ Once you click Save, the new saved search will show up in the left-hand menu ben
 Example Saved Search in Left-Hand Menu  
 ![](assets/images/images/Saved Searches/saved-search-in-nav.PNG)
 
-Click Organize to reorder, group, or delete saved searches in your left-hand menu.  Learn more in [Organizing Saved Searches](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches/).
+Click Organize to reorder, group, or delete saved searches in your left-hand menu.  Learn more in [Organizing Saved Searches](/docs/performing-searches/saved-search/organizational-saved-searches/).
