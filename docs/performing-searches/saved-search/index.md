@@ -19,7 +19,7 @@ Save Options Menu
 The options available in this menu will change depending on what you are able to do.  
 
 *   On a completely fresh search screen, you will only see Create New Saved Search.  
-*   If you are on the Search Documents Screen and have selected a Classification in your search, you will see a [Create New Checklist](/docs.qflow.com/docs/performing-searches/saved-search/checklist.html#3-open-the-save-options-menu-and-click-create-new-checklist-) option.  
+*   If you are on the Search Documents Screen and have selected a Classification in your search, you will see a [Create New Checklist](/docs/performing-searches/saved-search/checklist.html#3-open-the-save-options-menu-and-click-create-new-checklist-) option.  
 *   If you are viewing an existing saved search, you will also see:
 
 *   Save, which saves any changes you have made to filters or results display
