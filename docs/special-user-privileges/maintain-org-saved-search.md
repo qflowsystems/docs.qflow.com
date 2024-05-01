@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Maintaining Organizational Saved Searches
 
-If you are a Saved Search manager, you can modify or delete Organizational saved searches when [organizing the left-hand menu](https://qaprod.qflow.com/QAction_help//admin-topics/Organizing_Saved_Searches.htm), similarly to how all users can modify or delete Personal saved searches.
+If you are a Saved Search manager, you can modify or delete Organizational saved searches when [organizing the left-hand menu](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches), similarly to how all users can modify or delete Personal saved searches.
 
 Alternatively, you can click the Maintain Saved Searches option at the bottom of the left-hand menu instead of the Organize option.  This opens the Saved Search Maintenance Window.  
 

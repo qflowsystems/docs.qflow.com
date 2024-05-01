@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Viewing Pending Tasks for Staff Members
 
-If you manage several user employees and need to monitor their tasks, you can have an administrator [add your role as Manager](https://qaprod.qflow.com/QAction_help//Configuring_System_Managers.htm) for each employee. Then a Staff Inbox tab appears in your Inbox screen where you can view all the pending tasks for your employees. You must be a manager of the user within the same company hierarchy.
+If you manage several user employees and need to monitor their tasks, you can have an administrator [add your role as Manager]() for each employee. Then a Staff Inbox tab appears in your Inbox screen where you can view all the pending tasks for your employees. You must be a manager of the user within the same company hierarchy.
 
 1. Once you are logged in with the manager account, click Inbox.
 2. On the Inbox screen, click the Staff Inbox tab.  
