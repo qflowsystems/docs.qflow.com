@@ -12,7 +12,7 @@ With the Q-Action Office Add-In, you can add documents to Q-Action using Microso
 
 With the Q-Action Acrobat Add-In, you can add documents to Q-Action using Adobe Acrobat. In Acrobat with the Add-In installed, you can find the add-in menu by clicking File > Q-Action Menus.
 
-These two add-ins function very similarly to each other, so they are both covered together in this topic.  With the Acrobat Add-In, there is more to consider around PDF security, which you can read about [here](https://qaprod.qflow.com/QAction_help//PDF_Security.htm).
+These two add-ins function very similarly to each other, so they are both covered together in this topic.  With the Acrobat Add-In, there is more to consider around PDF security, which you can read about [here](/docs/using-add-ins/pdf-security).
 
 ## Add a New Document
 Most of the time, the only option available in the add-in menu is Add to Q-Action.
@@ -25,9 +25,9 @@ Add to Q-Action Menu Option in Acrobat
 
 When you click Add to Q-Action, an internet browser window opens taking you to Q-Action.  You will be prompted to log in if you aren't already logged in.  
   
-If you are using Outlook, you will be taken to the [Email Upload Wizard](https://qaprod.qflow.com/QAction_help//Email_Upload_Wizard.htm) next, which is discussed in further detail in its own topic.  
+If you are using Outlook, you will be taken to the [Email Upload Wizard](/docs/using-add-ins/email-upload-wizard) next, which is discussed in further detail in its own topic.  
   
-Once you have logged in and completed the Email Upload Wizard if applicable, the [Upload Documents](https://qaprod.qflow.com/QAction_help//Upload_Documents.htm) window appears, where you can finish adding the document to Q-Action.
+Once you have logged in and completed the Email Upload Wizard if applicable, the [Upload Documents](/docs/working-with-documents/add-documents/upload-documents) window appears, where you can finish adding the document to Q-Action.
 
 ## Check In or Cancel Check Out
 

@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Email Upload Wizard
 
-Emails and attachments can be added to Q-Action from within Outlook using the [Office Add-In](https://qaprod.qflow.com/QAction_help//Using_the_Office_and_Acrobat_Add-Ins.htm), or from within Gmail using the [Chrome Extension](https://qaprod.qflow.com/QAction_help//Adding_an_Email_with_Chrome_Extension.htm).
+Emails and attachments can be added to Q-Action from within Outlook using the [Office Add-In](/docs/using-add-ins/using-add-ins#using-the-office-and-acrobat-add-ins), or from within Gmail using the [Chrome Extension](/docs/using-add-ins/adding-email-chrome-ext).
 
 Adding an Email to Q-Action from Within Outlook  
 ![](/assets/images/email-upload-wizard-outlook.png)
@@ -33,7 +33,7 @@ Once you have selected which specific document(s) you want to add to Q-Action, c
 Documents Selected  
 ![](/assets/images/email-upload-wizard-selected.png)  
 
-This will discard any of the documents you did not select, and then move the selected documents into the queue on the [Upload Documents screen](https://qaprod.qflow.com/QAction_help//Upload_Documents.htm) to be indexed.
+This will discard any of the documents you did not select, and then move the selected documents into the queue on the [Upload Documents screen](/docs/working-with-documents/add-documents/upload-documents) to be indexed.
 
 Upload Documents Screen  
 ![](/assets/images/email-upload-wizard-upload-documents.png)

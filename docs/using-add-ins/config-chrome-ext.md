@@ -16,11 +16,13 @@ Please configure Q-Action url in extension options.
 
 Follow the steps below to configure the URL.
 
-1. Click on the Customize icon (![](https://qaprod.qflow.com/QAction_help//assets/images/images/Gmail%20Extension/customize-icon.png)), then select More Tools > Extensions.  
-    ![](https://qaprod.qflow.com/QAction_help//assets/images/images/Gmail%20Extension/more-tools-extensions.png)
+1. Click on the Customize icon (![](/assets/images/customize-icon.png)), then select More Tools > Extensions.  
+    ![](/assets/images/more-tools-extensions.png)
     
 2. Locate the QAction GMail Extension and click Details.  
-    ![](https://qaprod.qflow.com/QAction_help//assets/images/images/Gmail%20Extension/extension-details.png)
+    ![](/assets/images/extension-details.png)
+
 3. Scroll down to find and click on Extension Options.  
-    ![](https://qaprod.qflow.com/QAction_help//assets/images/images/Gmail%20Extension/extension-options.png)
+    ![](/assets/images/extension-options.png)
+    
 4. Enter the /services/ URL for the environment you wish to add emails to and click Save.

@@ -19,7 +19,7 @@ If you normally need to be on a VPN to access Q-Action, be sure to get on the VP
     This opens the Q-Action upload pop-up.  
     
 3. Log in to the application.  
-    The [Email Upload Wizard](https://qaprod.qflow.com/QAction_help//Email_Upload_Wizard.htm) screen opens, where you can select which attachments you want to add as separate documents in the system.  
+    The [Email Upload Wizard](docs/using-add-ins/email-upload-wizard) screen opens, where you can select which attachments you want to add as separate documents in the system.  
     
 
 In environments that use http instead of https the popup may fail to load.  In this case you will see an item display in the URL bar.  Click this and select Load Unsafe Scripts.  
