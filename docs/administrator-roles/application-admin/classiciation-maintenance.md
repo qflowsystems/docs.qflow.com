@@ -49,12 +49,12 @@ Add/Modify Classification Window
 
 The Allow Users to Add checkboxes determine how the classification functions structurally.  Some classifications are really more of a high-level organization folder, which users shouldn't add documents to directly, but rather should add documents to the relevant child classification.  Meanwhile, other classifications are exactly where documents should go.
 
-The Document tab determines things about [individual documents](https://qaprod.qflow.com/QAction_help//q-action_topics/Introduction.htm) within the classification, while the Collection tab determines things about [collections of documents](https://qaprod.qflow.com/QAction_help//interface-topics/Document_Collections.htm).
-- Use the [Indexes](https://qaprod.qflow.com/QAction_help//Classification_Index_fields.htm) tab to define which index fields should be associated with documents or collections in the classification.
-- Use the [Document Types](https://qaprod.qflow.com/QAction_help//Classification_Document_Types.htm) tab to manage Document Types within the classification.
-- Use the [Security](https://qaprod.qflow.com/QAction_help//Classification_Security.htm) tab to determine who has access to do what within the classification.
-- Use the [Disposition](https://qaprod.qflow.com/QAction_help//Creating_a_Record_Policy.htm) tab to manage [Record Policies](https://qaprod.qflow.com/QAction_help//Record_Categories_vs_Record_Policies.htm) for the classification.
-- Use the [Priority Search Fields](https://qaprod.qflow.com/QAction_help//Priority_Search_Fields.htm) tab to configure which fields the system should use for the top search bar when the classification is selected on the document search screen.
+The Document tab determines things about [individual documents](/docs/working-with-documents/#document-management-introduction) within the classification, while the Collection tab determines things about [collections of documents](/docs/working-with-documents/collections/#document-collections).
+- Use the [Indexes](/docs/administrator-roles/application-admin/classiciation-maintenance#classification-index-fields) tab to define which index fields should be associated with documents or collections in the classification.
+- Use the [Document Types](/docs/administrator-roles/application-admin/classiciation-maintenance#classification-document-types) tab to manage Document Types within the classification.
+- Use the [Security](/docs/administrator-roles/application-admin/classiciation-maintenance#classification-security) tab to determine who has access to do what within the classification.
+- Use the [Disposition](/docs/records-management/create-a-record-policy#creating-a-record-policy) tab to manage [Record Policies](/docs/records-management/policies-categories) for the classification.
+- Use the [Priority Search Fields](/docs/administrator-roles/priority-search-fields) tab to configure which fields the system should use for the top search bar when the classification is selected on the document search screen.
 
 
 # Classification Index Fields
@@ -92,7 +92,7 @@ Select up to three index fields to display in the snippet in search results.
 
 ## Modify Primary Field
 
-The **primary field** on a Classification is a special index field that allows users to select multiple values, and tells the system to add a separate copy of the document for each selected value. Be sure to [read all about primary fields](https://qaprod.qflow.com/QAction_help//Primary_Fields.htm) to understand what they are before configuring one. Most Classifications probably don't need one. Consider carefully whether a given field should be a primary field or simply a multi-value index field, which allows users to select multiple values and just adds a single copy of the document to the system.
+The **primary field** on a Classification is a special index field that allows users to select multiple values, and tells the system to add a separate copy of the document for each selected value. Be sure to [read all about primary fields](/docs/administrator-roles/process-admin#configuring-folder-fields) to understand what they are before configuring one. Most Classifications probably don't need one. Consider carefully whether a given field should be a primary field or simply a multi-value index field, which allows users to select multiple values and just adds a single copy of the document to the system.
 
 To configure a primary field, click on the **Modify Primary Field** link. This opens a new pop-up window.
 

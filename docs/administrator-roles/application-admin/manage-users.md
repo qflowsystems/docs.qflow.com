@@ -28,10 +28,10 @@ If you need to add a new user to the system, the first task is to create a Perso
     
 4. Enter the person's information, and click Save.  
     The person is created in the system.
-5. To make the person an actual user in the system, refer to the [Attaching a New Person to an Application User Account](https://qaprod.qflow.com/QAction_help//Person_Attach_to_User_Account.htm) procedure.
+5. To make the person an actual user in the system, refer to the [Attaching a New Person to an Application User Account](/docs/administrator-roles/application-admin/manage-users#attaching-a-new-person-to-an-application-user-account) procedure.
 
 ## Attaching a New Person to an Application User Account 
-If you have already [created a Person](https://qaprod.qflow.com/QAction_help//Person_Entry_Create.htm) in the system, but you need to create an application user account for them, perform this task.
+If you have already [created a Person](/docs/administrator-roles/application-admin/manage-users#creating-a-new-person-entry) in the system, but you need to create an application user account for them, perform this task.
 
 1. In the left navigation pane, click the Person tab.  
     The Search Person screen appears.
@@ -61,20 +61,20 @@ The Person window appears.
 
 ![](/assets/images/user-manager.png)
 
-To configure a [Staff Manager](https://qaprod.qflow.com/QAction_help//Viewing_Staff_Members__Pending_Tasks.htm), in the Manager field, enter or select the Position folder for the manager.
+To configure a [Staff Manager](/docs/special-user-privileges/viewing-pending-tasks), in the Manager field, enter or select the Position folder for the manager.
 
 To configure other user privileges, click on the **Privileges** tab.
 
 ![](/assets/images/user-privileges.png)
 
-The **Organization-Wide Roles** are just straightforward checkboxes to determine if the user has access to certain [application-level privileges](https://qaprod.qflow.com/QAction_help//Administrator_Roles.htm).
+The **Organization-Wide Roles** are just straightforward checkboxes to determine if the user has access to certain [application-level privileges](/docs/administrator-roles/).
 
 The **Organization-Specific Roles** section allows you to select specific organizations in which the user has certain privileges.  
 - **Assign Tasks** allows the user to reassign tasks to a different user or organization.
-- **Administer Tasks** allows the user to work tasks not assigned to them.  Learn more in [Assigning and Administering Tasks](https://qaprod.qflow.com/QAction_help//Assigning_and_Administering_Tasks.htm)
-- **Indexing Operator** allows the user to index documents from the [index queue](https://qaprod.qflow.com/QAction_help//Index_Documents_Screen.htm).
-- **Scan Operator** allows the user to [scan documents](https://qaprod.qflow.com/QAction_help//Scanning_&_Indexing_Overview.htm) into the index queue.
-- **Saved Search Manager** allows the user to create [organizational saved searches](https://qaprod.qflow.com/QAction_help//Organizational_Saved_Searches.htm).
+- **Administer Tasks** allows the user to work tasks not assigned to them.  Learn more in [Assigning and Administering Tasks](/docs/special-user-privileges/assigning-admin-tasks)
+- **Indexing Operator** allows the user to index documents from the [index queue](/docs/working-with-documents/scanning-and-indexing/index-documents-screen).
+- **Scan Operator** allows the user to [scan documents](/docs/working-with-documents/scanning-and-indexing/) into the index queue.
+- **Saved Search Manager** allows the user to create [organizational saved searches](/docs/performing-searches/saved-search/organizational-saved-searches).
 
 To give the user one or more of these privileges within a particular organization, click **Add New ACL Entry**.  Then select the organization, position, or working group, and then click Select.  
 The organization and {All Subgroups} appear under the Organization-Specific Roles section.  From there simply click on the relevant checkboxes, and click **Save**.
@@ -84,7 +84,7 @@ Administrators can also modify **preferences** and **proxies** for users by 
 ## Configuring Staff Managers
 If you manage several user employees and need to monitor their tasks, you can add your role as Manager for each employee. Then a Staff Inbox tab appears in your Inbox screen where you can view all the pending tasks for your employees. You must be a manager of the user within the same company hierarchy.
 
-To learn more about staff manager tasks, refer to [Viewing Pending Tasks for Staff Members](https://qaprod.qflow.com/QAction_help//Viewing_Staff_Members__Pending_Tasks.htm) under Special User Privileges.
+To learn more about staff manager tasks, refer to [Viewing Pending Tasks for Staff Members](/docs/special-user-privileges/viewing-pending-tasks) under Special User Privileges.
 
 If the manager is already set up in their position, skip directly to step 5.
 

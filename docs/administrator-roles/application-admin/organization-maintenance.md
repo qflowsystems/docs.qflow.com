@@ -61,7 +61,7 @@ The following task is an example scenario for using this screen.
     - Add Child Working Group
     - Edit Working Group
     - Add User
-    - Select Organization(s) -- Refer to the [Adding Organizations to Working Group](https://qaprod.qflow.com/QAction_help//Editing_Working_Groups.htm)s topic for more information.
+    - Select Organization(s) -- Refer to the [Adding Organizations to Working Group](/docs/administrator-roles/application-admin/organization-maintenance#adding-organizations-to-working-groups)s topic for more information.
     - Move Working Group
     - Delete Working Group
     - Print
@@ -95,7 +95,7 @@ Create a working group and a child working group:
 5. To nest a new working group folder under the folder, right-click the folder, and click Add Child Working Group.
 6. In the Name and Abbreviation fields, enter values, and click Save.  
     The new working groups folder appears with the name you entered and a WG Folder (![](/assets/images/WorkinGroup-folder-icon.PNG)) icon by it.
-7. To add organizations to this working group, refer to the [Adding Organizations to Working Groups](https://qaprod.qflow.com/QAction_help//Editing_Working_Groups.htm) procedure.
+7. To add organizations to this working group, refer to the [Adding Organizations to Working Groups](/docs/administrator-roles/application-admin/organization-maintenance#adding-organizations-to-working-groups) procedure.
 
 {: .note}
 Adding organizations to working groups can help Save Search Managers create organizational searches. Managers distribute these organizational searches to everyone within a working group. This step eliminates the need to create an organizational search for each organization folder and its users.
@@ -145,7 +145,7 @@ Adding organizations to working groups can help Save Search Managers create orga
 
 # Adding Users to Working Groups
 
-After [creating a new user](https://qaprod.qflow.com/QAction_help//Person_Entry_Create.htm) in the system, you can add them to working groups by following the steps below.
+After [creating a new user](/docs/administrator-roles/application-admin/manage-users#creating-a-new-person-entry) in the system, you can add them to working groups by following the steps below.
 
 1. In the top-right of the application, click Administration > Organizations and Positions.
     

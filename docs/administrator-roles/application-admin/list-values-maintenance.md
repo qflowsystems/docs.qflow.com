@@ -28,7 +28,7 @@ Use this screen to do the following:
 - Modify an existing list of values.
 - Create a new value for a list of values.
 - Delete an existing value for a list of values.
-- Copy Ids for use in scripts such as for data-driven [BPMN workflow decision gateways](https://qaprod.qflow.com/QAction_help//BPMN_Gateways.htm).
+- Copy Ids for use in scripts such as for data-driven [BPMN workflow decision gateways](/docs/workflows-and-tasks/BPMN/BPMN-gateways).
 
 # Creating a New List of Values
 Follow the steps below to create a new List of Values.
@@ -67,7 +67,7 @@ To add a new entry to the selected list of values, simply enter the value in the
 
 To modify an existing entry, first select it in the right grid, then modify what you wish to about it, and finally click **Update** at the bottom of the screen.
 
-You can also right-click on an entry to delete it or to copy the id.  You may wish to copy the id for use in scripts such as for [data-driven BPMN workflow gateways](https://qaprod.qflow.com/QAction_help//BPMN_Gateways.htm).
+You can also right-click on an entry to delete it or to copy the id.  You may wish to copy the id for use in scripts such as for [data-driven BPMN workflow gateways](/docs/workflows-and-tasks/BPMN/BPMN-gateways.
 
 You can also optionally:
 - Enter/update a **Short Description** to give more context about the entry

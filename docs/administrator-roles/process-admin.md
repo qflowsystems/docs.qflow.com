@@ -24,7 +24,7 @@ Folder Definitions link to a workflow and define the index fields that appear fo
 2. Click Add New Workflow Folder Definitions.  
     The Create Folder Definition window appears.  
     ![Create Folder Definition Window](/assets/images/folder-definition-blank.png "Create Folder Definition Window")  
-    Note that the options on the left of the screen may vary slightly based on your organization's Q-Action setup.  In particular, if your organization has [Records Management](/docs/records-management/index.html), then you will see a **Retention** tab in addition to the tabs pictured above.
+    Note that the options on the left of the screen may vary slightly based on your organization's Q-Action setup.  In particular, if your organization has [Records Management](/docs/records-management), then you will see a **Retention** tab in addition to the tabs pictured above.
     
 3. Enter a Folder Name and Description. You will want to leave the Status field as Active.
     
@@ -34,10 +34,10 @@ Folder Definitions link to a workflow and define the index fields that appear fo
     
 6. Click Save.
     
-You have now created a very basic folder definition in the system.  However the folder is not going to be very useful without further configuration.  The next important step is [Configuring Folder Fields](https://qaprod.qflow.com/QAction_help//Configuring_Folder_Fields.htm), and you may also want to [configure a workflow](https://qaprod.qflow.com/QAction_help//Configuring_Folder_Workflow.htm) as well in order to include tasks for users to work within the folder. Improve how the folder and workflow search screens function when the folder type is selected by configuring [Priority Search Fields](https://qaprod.qflow.com/QAction_help//Priority_Search_Fields.htm) for the folder definition.
+You have now created a very basic folder definition in the system.  However the folder is not going to be very useful without further configuration.  The next important step is [Configuring Folder Fields](/docs/administrator-roles/process-admin#configuring-folder-fields), and you may also want to [configure a workflow](/docs/administrator-roles/process-admin#configuring-a-workflow-for-a-folder) as well in order to include tasks for users to work within the folder. Improve how the folder and workflow search screens function when the folder type is selected by configuring [Priority Search Fields](/docs/administrator-roles/priority-search-fields) for the folder definition.
 
 ## Configuring Folder Fields
-On the [Create/Modify Folder Definition screen](https://qaprod.qflow.com/QAction_help//Creating_Folder_Definitions.htm), click the Folder Fields tab on the left.  
+On the [Create/Modify Folder Definition screen](/docs/administrator-roles/process-admin#creating-folder-definitions), click the Folder Fields tab on the left.  
 ![](/assets/images/folder-definition-folder-fields-QAction.png)
 
 ### Folder Label
@@ -69,12 +69,42 @@ Drag any of the fields between Column 1 and Column 2 to alter how the fields are
 ### Additional Options
 - Show Folder Due Date checkbox - Selecting a field for the Base Due Date on field, and enter a number of days in the Days allowed field (select either business days or calendar days).
 - Select Field 1, Field 2, Field 3 section - Select the three most important fields, and those appear first in a search. 
-- Include Documents in Folder by Field Values checkbox -  Add fields and then those selected fields connect future documents via matching values to this folder. End-users can then open a folder, click the Documents tab, and view documents that were added directly to that individual folder, as well as documents related to that folder according to the fields configured here by the administrator. For more information, refer to [Configuring Folders to View Field-Related Documents](https://qaprod.qflow.com/QAction_help//Configuring_Folders_to_View_Field-Related_Documents.htm).
+- Include Documents in Folder by Field Values checkbox -  Add fields and then those selected fields connect future documents via matching values to this folder. End-users can then open a folder, click the Documents tab, and view documents that were added directly to that individual folder, as well as documents related to that folder according to the fields configured here by the administrator. For more information, refer to [Configuring Folders to View Field-Related Documents](https://docs.qflow.com/docs/workflows-and-tasks/viewing-a-folder#viewing-the-field-related-documents-in-your-folder).
 - Provide a List of Similar Folders by Field Values checkbox - Add fields so that users can easily find related folders based on sharing the same values for those fields.  Select this checkbox and when the folder is opened by an end-user, a View Similar Folders (![](/assets/images/view-similar-folders-button.JPG)) button appears which the user can click to view a list of related folders.
 
+## Configuring Folders to View Field-Related Documents
+
+This task must be performed by a process administrator.
+
+Administrators can configure a Folder Definition to automatically pull in documents to a folder based on certain Field Values and Classification/Document Type(s).  To view the field-related documents in your folders, refer to the [Viewing the Field-Related Documents in Your Folders](/docs/workflows-and-tasks/viewing-a-folder#viewing-the-field-related-documents-in-your-folder) topic under Workflow Functionality.
+
+1. Click Administration > Folder Configuration.  
+    The Search Folder Definition screen appears with several search results.
+2. Locate the folder definition and click the title.  
+    The folder definition window for the selected folder definition appears.  
+    ![](/assets/images/folder-definition-QAction.PNG)
+3. Click the Folder Fields tab.  
+    ![](/assets/images/folder-definition-folder-fields-QAction.png)
+4. In this window, select the Include Documents in Folder by Field Values checkbox in the bottom-right.  
+    By default this option is not selected. Selecting the checkbox connects documents to the folder by configured field values.
+5. Click Add Field beneath the **Include Documents in Folder by Field Values** checkbox.  
+    ![](/assets/images/folder-definition-folder-fields-add-field-QAction.png)
+6. From the left drop-down list, select a Folder Field.  
+    A folder field must be selected from the left drop-down before the right drop-down is available. Once a folder field is selected, the right drop-down is available to select document fields that match the data type of the folder field selected. For example, if a date field is selected from the (left) folder field drop-down, only date fields appear in the (right) document field drop-down.
+7. From the second drop-down list, select a Document Field.
+8. Click OK.  
+    The fields appear under the checkbox.  
+    ![](/assets/images/folder-definition-folder-fields-include-documents-field-added-QAction.png)
+9. Click Add Document Filter.  
+    ![](/assets/images/folder-definition-filter-documents.png)
+10. Select a Classification and optionally one or more Document Types, then click Save.  
+    The selected Classification/Document Type(s) will appear beneath the selected Field Values.
+11. Click Save.  
+    Any folders with the definition you just edited will include documents added directly to the folder on the _Documents_ tab like normal, as well as now including documents of the selected Classification/Document Type(s) where the field on the document matches the field on the folder.
+12. Close the folder definition window.
 
 ## Configuring a Workflow for a Folder
-When [creating a folder definition](https://qaprod.qflow.com/QAction_help//Creating_Folder_Definitions.htm), there are two ways to configure a workflow for the folder:  
+When [creating a folder definition](/docs/administrator-roles/process-admin#creating-folder-definitions), there are two ways to configure a workflow for the folder:  
 - Specific documents can be configured to automatically kick off a workflow when they are added to the system.  These can be set up on the **Initiating Docs** tab of the folder definition screen.
 - You can allow users to manually kick off a workflow using the **Create On Demand** tab of the folder screen.
 
@@ -117,7 +147,7 @@ Review how to configure these options in the sections below.
     - **Edit Folder** - Users can edit any folder field.
     - **Delete Folder** - Users can delete folders from the system.
     - **Create Folder** - Users can create new folders on demand (without an initiating document).  
-        Users with this privilege can create workflows with the [Creating Folders](https://qaprod.qflow.com/QAction_help//Creating_Folders.htm) procedure.
+        Users with this privilege can create workflows with the [Creating Folders](/docs/workflows-and-tasks/launch-workflows) procedure.
     - **Edit Workflow** - Users can edit the workflow tasks to be completed for existing folders.
     - **Edit Security** - Users can edit the security privileges for existing folders.
     - **Deactivate/Reactivate** - Users can deactivate and reactivate the workflow for existing folders.
