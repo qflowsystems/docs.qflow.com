@@ -7,9 +7,9 @@ has_toc: false
 ---
 # Understanding the Disposition Date
 
-The Disposition Date for a given record is the date on which that record becomes eligible for disposition.  The system uses this date to automatically kick off [Disposition Approval Workflows](https://qaprod.qflow.com/QAction_help//Understanding_Disposition_Approval_Workflows.htm) for records with a Disposition Date in the past.
+The Disposition Date for a given record is the date on which that record becomes eligible for disposition.  The system uses this date to automatically kick off [Disposition Approval Workflows](/docs/records-management/disposition-approval-workflow) for records with a Disposition Date in the past.
 
-This date is automatically calculated by the system using three values defined in the [Record Policy](https://qaprod.qflow.com/QAction_help//Creating_a_Record_Policy.htm) (or Policies) that a given record falls under:
+This date is automatically calculated by the system using three values defined in the [Record Policy](/docs/records-management/create-a-record-policy) (or Policies) that a given record falls under:
 
 - Retention Period Start Date - the date field associated with the record that the system will use to calculate the Disposition Date.
 - Retention Period Cutoff - an optional offset for the Retention Period to begin at a set time after the Retention Period Start Date.  This will usually be something like the end of the fiscal or calendar year.

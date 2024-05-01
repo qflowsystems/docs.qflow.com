@@ -7,9 +7,9 @@ has_toc: false
 ---
 # Placing Holds on Records
 
-A record with a Hold is exempt from any Disposition Actions, even if its [Disposition Date](https://qaprod.qflow.com/QAction_help//Understanding_the_Disposition_Date.htm) is in the past.  The Hold on a record must be resolved before that record can finish going through the disposition process.
+A record with a Hold is exempt from any Disposition Actions, even if its [Disposition Date](/docs/records-management/disposition-date) is in the past.  The Hold on a record must be resolved before that record can finish going through the disposition process.
 
-Holds can be placed on records either from the [Records Disposition Screen](https://qaprod.qflow.com/QAction_help//Records_Disposition_Dashboard.htm) or from within a [Disposition Approval Folder](https://qaprod.qflow.com/QAction_help//Understanding_Disposition_Approval_Workflows.htm).
+Holds can be placed on records either from the [Records Disposition Screen](/docs/records-management/records-disposition-dashboard) or from within a [Disposition Approval Folder](/docs/records-management/disposition-approval-workflow).
 
 On the Records Disposition Screen, click on the number next to Total on the policy relevant to the hold you want to place.
 

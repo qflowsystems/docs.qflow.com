@@ -19,14 +19,14 @@ Click Add Policy to create a Record Policy for the Definition/Classification y
 Create Record Policy Screen  
 ![](/assets/images/create-record-policy-blank.png)  
 
-Record Category is the human-readable description of the Policy you are creating.  Learn more in [Understanding Record Categories](/docs/records-management/policies-categories.html).
+Record Category is the human-readable description of the Policy you are creating.  Learn more in [Understanding Record Categories](/docs/records-management/policies-categories#record-categories-vs-record-policies).
 
 Filter Criteria are any additional data about the Record that determine whether this Policy applies to the Record.  Any Index Field on the Definition/Classification can be used as a Filter Criteria for a Record Policy.  If there are no Filter Criteria on the Policy, then the Policy will apply to every Object or Folder with the Definition you are editing, or every document in the Classification you are editing.
 
 The other fields on this screen can be roughly grouped into two different categories:
 
-- Launching [Disposition Approval Workflows](https://qaprod.qflow.com/QAction_help//Understanding_Disposition_Approval_Workflows.htm)
-- Calculating the [Disposition Date](https://qaprod.qflow.com/QAction_help//Understanding_the_Disposition_Date.htm) for a given record
+- Launching [Disposition Approval Workflows](/docs/records-management/disposition-approval-workflow)
+- Calculating the [Disposition Date](/docs/records-management/disposition-date) for a given record
 
 ## Disposition Approval Workflows
 
