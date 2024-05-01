@@ -30,7 +30,7 @@ Clicking on Create New Saved Search opens the Create Saved Search window.
 Create Saved Search Window  
 ![](assets/images/images/Saved Searches/save-search-window-empty.PNG)
 
-If you are a Saved Search Manager, you will see a Make Organizational checkbox, which you can learn more about [here](/docs/performing-searches/saved-search/organizational-saved-searches).  
+If you are a Saved Search Manager, you will see a Make Organizational checkbox, which you can learn more about [here](/docs/performing-searches/saved-search/organizational-saved-searches/).  
 
 Name is the name of the saved search which will serve as the link to open the search in the left-hand menu.
 
