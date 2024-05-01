@@ -10,7 +10,7 @@ has_toc: false
 # Organizational Saved Searches
 Normally, when you create a Saved Search, you are the only user who sees that search in your left-hand menu.
 
-Users who have special privileges - [Saved Search Managers](Maintaining_Organizational_Saved_Searches.htm) - can create Saved Searches that all users in a certain group or organization will see in their left-hand menu.  These are Organizational Saved Searches.  For most intents and purposes, Organizational Saved Searches function the same as normal (Personal) Saved Searches.  However, only Saved Search Managers can modify or delete Organizational Saved Searches.
+Users who have special privileges - [Saved Search Managers](/l/quote/zblheyrz) - can create Saved Searches that all users in a certain group or organization will see in their left-hand menu.  These are Organizational Saved Searches.  For most intents and purposes, Organizational Saved Searches function the same as normal (Personal) Saved Searches.  However, only Saved Search Managers can modify or delete Organizational Saved Searches.
 
 You can tell the difference between Personal and Organizational Saved Searches when [Organizing the Left-Hand Menu](admin-topics/Organizing_Saved_Searches.htm).  Organizational Searches will have an Organizational Icon(![](../../../assets/images/organizational-icon.png)) next to them.
 
