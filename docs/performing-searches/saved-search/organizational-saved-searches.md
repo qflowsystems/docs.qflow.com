@@ -10,9 +10,9 @@ has_toc: false
 # Organizational Saved Searches
 Normally, when you create a Saved Search, you are the only user who sees that search in your left-hand menu.
 
-Users who have special privileges - [Saved Search Managers](/docs/special-user-privileges/) - can create Saved Searches that all users in a certain group or organization will see in their left-hand menu.  These are Organizational Saved Searches.  For most intents and purposes, Organizational Saved Searches function the same as normal (Personal) Saved Searches.  However, only Saved Search Managers can modify or delete Organizational Saved Searches.
+Users who have special privileges - [Saved Search Managers](/docs/special-user-privileges/index.md) - can create Saved Searches that all users in a certain group or organization will see in their left-hand menu.  These are Organizational Saved Searches.  For most intents and purposes, Organizational Saved Searches function the same as normal (Personal) Saved Searches.  However, only Saved Search Managers can modify or delete Organizational Saved Searches.
 
-You can tell the difference between Personal and Organizational Saved Searches when [Organizing the Left-Hand Menu](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches.html).  Organizational Searches will have an Organizational Icon(![](../../../assets/images/organizational-icon.png)) next to them.
+You can tell the difference between Personal and Organizational Saved Searches when [Organizing the Left-Hand Menu](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches.md).  Organizational Searches will have an Organizational Icon(![](../../../assets/images/organizational-icon.png)) next to them.
 
 Organizational Saved Search with Icon while Organizing the Left-Hand Menu  
 ![Documents Tab - Organize Button Clicked](../../../assets/images/organize-left-nav.PNG "Documents Tab - Organize Button Clicked")
