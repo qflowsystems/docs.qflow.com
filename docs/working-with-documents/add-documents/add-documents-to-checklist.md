@@ -11,7 +11,7 @@ has_toc: false
 ---
 Checklists are an easy way to determine which document types are uploaded for a particular project or to determine which document types are still needed.
 
-You can find checklists saved alongside [Saved Searches](Saved_Searches_Overview.htm) in the left-hand menu.  You can learn more about creating checklists [here](Checklist_Saved_Searches.htm).
+You can find checklists saved alongside [Saved Searches](/docs/performing-searches/saved-search/) in the left-hand menu.  You can learn more about creating checklists [here](/docs/performing-searches/saved-search/checklist).
 
 When you open a checklist, likely you will need to update the search criteria.  We will be looking at an example onboarding checklist, which lists documents needed for onboarding a new employee.  In this example, the user will need to update the exact employee they want to add a document for.
 
@@ -20,7 +20,7 @@ Once you have updated the search criteria on the checklist, click Search.  Then
 ## Example Onboarding Checklist  
 ![](/assets/images/onboarding-checklist-received-items.png)  
 
-This will cause a \* to appear at the top of the screen.  That simply lets you know that there are unsaved changes to the checklist that you opened - in our example, it means that you entered an employee into the blank employee field.  If you want, you can [save this as a new checklist](Checklist_Saved_Searches.htm), and the \* will go away.  Otherwise, don't worry about it.
+This will cause a \* to appear at the top of the screen.  That simply lets you know that there are unsaved changes to the checklist that you opened - in our example, it means that you entered an employee into the blank employee field.  If you want, you can [save this as a new checklist](/docs/performing-searches/saved-search/checklist), and the \* will go away.  Otherwise, don't worry about it.
 
 In the example above, this employee already has an Employment Application document added to the system, but does not have a Contract, Resume, or Terms and Conditions.
 
@@ -46,7 +46,7 @@ When you are done, click Save.  A progress bar will appear to indicate that the
 ## Adding New Version of Existing Document while Previous Document Uploads  
 ![](/assets/images/onboarding-checklist-add-doc-second.png)
 
-See [Handling Add Document Errors](Add_Document_Errors.htm) for what to do in the event that adding a document is unsuccessful.
+See [Handling Add Document Errors](/docs/working-with-documents/add-documents/handling-add-document-errors) for what to do in the event that adding a document is unsuccessful.
 
 If you drag and drop a document over an existing document in the checklist, the system will ask you whether you want to add the document you dragged as a new document or a new version of the document already in the checklist.
 

@@ -9,7 +9,7 @@ has_toc: false
 # Creating Personal Document Templates
 
 {: .highlight}
-Want to learn how to create organizational documents that your entire team can use? Visit the [Document Template Administrator](https://qaprod.qflow.com/QAction_help//Creating_Organizational_Document_Templates.htm) tasks under the Administrator section.
+Want to learn how to create organizational documents that your entire team can use? Visit the [Document Template Administrator](/docs/administrator-roles/create-org-doc-template) tasks under the Administrator section.
 
 All users can create personal document templates.
 

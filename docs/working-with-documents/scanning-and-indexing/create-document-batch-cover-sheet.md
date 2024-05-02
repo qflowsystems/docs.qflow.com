@@ -22,4 +22,4 @@ Perming this task requires Scan Operator privileges.
     The batchcoversheet.pdf generates and downloads.
 6. Navigate to your Downloads folder, open the cover sheet, and print it as needed.
 7. For document batches, insert Batch Cover Sheets between documents, and then use your scanning software to scan the documents.
-8. Once all documents are scanned, visit the Index Queue screen to [index and split the batches](https://qaprod.qflow.com/QAction_help//Adding_Documents_in_Batch.htm) in the Batch Assembly window.
+8. Once all documents are scanned, visit the Index Queue screen to [index and split the batches](/docs/working-with-documents/add-documents/adding-documents-in-batches) in the Batch Assembly window.

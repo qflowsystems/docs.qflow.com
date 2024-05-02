@@ -19,32 +19,32 @@ Q-Action has no control over whether documents added this way are deleted extern
 When this feature is enabled, anywhere there is an option to Browse to add files to the system, the option to Add from URL will also be available.
 
 ## Add From URL Option Example - Drop Files Area on Folders and etc  
-![](../../../assets/images/browse-or-add-from-url.png)
+![](/assets/images/browse-or-add-from-url.png)
 
 ## Add From URL Option Example - Fresh Upload Documents Screen  
-![](../../../assets/images/upload-documents-screen.png)
+![](/assets/images/upload-documents-screen.png)
 
 ## Add From URL Option Example - Upload Documents Screen While Uploading  
-![](../../../assets/images/while-uploading.png)
+![](/assets/images/while-uploading.png)
 
 * When you click the Add from URL option, the Add from URL screen opens.
 
 ## Add From URL Screen  
-![](../../../assets/images/add-from-url-window.png)
+![](/assets/images/add-from-url-window.png)
 
 * After you click Submit, the system will validate the entered URL and display a message if there is an error.  Note that valid URLs must begin with `https://`.
 * If there is no error, you will then be able to index the document.  If you added the document on the Upload Documents screen, then you will simply return to that screen; otherwise, the Document Indexing screen will display.
-* On the Upload Documents screen, documents added from a URL will have an open in new tab icon (![](../../../assets/images/open-in-new-tab.png)) instead of the download icon (![](../../../assets/images/icon-download-document.png)).
+* On the Upload Documents screen, documents added from a URL will have an open in new tab icon (![](/assets/images/open-in-new-tab.png)) instead of the download icon (![](/assets/images/icon-download-document.png)).
 
 ## Document Added From URL on Upload Documents Screen  
-![](../../../assets/images/open-from-uploading.png)
+![](/assets/images/open-from-uploading.png)
 
-Elsewhere in the system, such as on the Search Documents screen, documents added from a URL will have a link icon (![](../../../assets/images/link-icon.png)) as their Document Type icon.
+Elsewhere in the system, such as on the Search Documents screen, documents added from a URL will have a link icon (![](/assets/images/link-icon.png)) as their Document Type icon.
 
 ## Document Added From URL on Search Screen  
-![](../../../assets/images/search-result-link.png)
+![](/assets/images/search-result-link.png)
 
 * The document URL will open in a new tab when the user clicks on the blue title of the document (e.g. Updated Navigation in the screen shot above), or when the user selects the Open Link option in the Actions drop-down menu.
 
 ## Open Link Option in Actions Menu  
-![](../../../assets/images/actions-menu.png)
+![](/assets/images/actions-menu.png)

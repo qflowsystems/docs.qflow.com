@@ -16,7 +16,7 @@ On the _Upload Documents_ Screen, a primary field will have some text explaini
 ![](/assets/images/primary-field-example.png)
 You can add values to this field just like a multi-value field: 
 
-1. You can click the **Search** (![](https://qaprod.qflow.com/QAction_help//assets/images/images/Icons/search-icon.png)) icon to open up a search screen, where you can search for relevant objects to select.  
+1. You can click the **Search** (![](/assets/images/search-icon.png)) icon to open up a search screen, where you can search for relevant objects to select.  
 ![](/assets/images/primary-field-search.png)
 
 2. Or you can begin typing in the name of the object and select the object from the suggestions that appear.     

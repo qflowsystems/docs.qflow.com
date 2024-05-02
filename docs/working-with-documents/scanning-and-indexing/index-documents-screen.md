@@ -23,4 +23,4 @@ The Index Documents screen shows batches that have been scanned or otherwise imp
     
 4. Choose a document from the queue, and click the Actions menu.
     
-5. Click Index Batch.  This opens the [Batch Assembly screen](https://qaprod.qflow.com/QAction_help//Adding_Documents_in_Batch.htm), where the batch can be split into its component documents and indexed into the system accordingly.
+5. Click Index Batch.  This opens the [Batch Assembly screen](/docs/working-with-documents/add-documents/adding-documents-in-batches), where the batch can be split into its component documents and indexed into the system accordingly.

@@ -12,11 +12,11 @@ With scan and indexing operator privileges, users can view the Index Documents s
 
 Review the following related tasks.
 
-- [Create batch cover sheets](https://qaprod.qflow.com/QAction_help//q-action_um_topics/Creating_Document_Batch_Cover_Sheets.htm) or [document separator sheets](https://qaprod.qflow.com/QAction_help//q-action_um_topics/Creating_Document_Cover_Sheets.htm) using the correct procedures.
+- [Create batch cover sheets](/docs/special-user-privileges/scanning-and-indexing#creating-document-separator-cover-sheets) or [document separator sheets](/docs/special-user-privileges/scanning-and-indexing#creating-document-batch-cover-sheets) using the correct procedures.
     
-- For document batches, insert Batch Cover Sheets between documents, and then use your [scanning software](https://qaprod.qflow.com/QAction_help//Using_the_Scan_Application.htm) to scan the documents.
+- For document batches, insert Batch Cover Sheets between documents, and then use your [scanning software](/docs/special-user-privileges/scanning-and-indexing#using-theq-actionscan-application) to scan the documents.
     
-- Once all documents are scanned, visit the Index Documents screen to [index the batches](https://qaprod.qflow.com/QAction_help//Index_Documents_Screen.htm).
+- Once all documents are scanned, visit the Index Documents screen to [index the batches](/docs/special-user-privileges/scanning-and-indexing#index-documents-screen).
     
 - If the Document Separator Sheet (which includes a barcode for index field metadata) is inserted in front of a document, and it is scanned into the system, then there are no more actions to take.
     

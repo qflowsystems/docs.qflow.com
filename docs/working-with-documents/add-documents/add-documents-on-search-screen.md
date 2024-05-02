@@ -13,18 +13,18 @@ When you perform a search on the Search Documents screen, you can add a new docu
 
 1.  From the left navigation pane, click Documents.  
     The Search Documents screen appears.  
-    ![](../../../assets/images/search-docs-today.PNG)
+    ![](/assets/images/search-docs-today.PNG)
 2.  Use the Search Options drop-down to add filters, and then click Search.  
     The search results appear.
 3.  Drag & drop a file over a document in the search results.  
-    ![](../../../assets/images/search-add-over-existing-Ascension.png)
+    ![](/assets/images/search-add-over-existing-Ascension.png)
 4.  If your installation of Q-Action has document versioning enabled, then the Document Preferences window appears.  
-    ![](../../../assets/images/document-preferences-window.PNG)  
+    ![](/assets/images/document-preferences-window.PNG)  
     Note that if a document is checked out by another user, the Document Preferences window only has the Add New Document option available.  
       
     Select Add New Document and click OK.
 5.  The Document Indexing window appears.  
-    ![](../../../assets/images/search-indexing-autofilled-QAction.PNG)
+    ![](/assets/images/search-indexing-autofilled-QAction.PNG)
 6.  Enter information in the missing fields and click Save.  
     A new document is added.  
     

@@ -10,7 +10,7 @@ has_toc: false
 # Subscribe to a Document
 
 {: .note}
-This topic covers subscribing to specific events on a given document. You can also subscribe to Saved Searches. Read more about that [here](https://qaprod.qflow.com/QAction_help//Subscribe_to_a_Document.htm)!
+This topic covers subscribing to specific events on a given document. You can also subscribe to Saved Searches. Read more about that [here](/docs/working-with-documents/document-actions/subscribe-to-document)!
 
 ## Subscribe
 1. Locate the document you want to subscribe to on a search screen or in a folder, and open the **Actions** menu for that document.
