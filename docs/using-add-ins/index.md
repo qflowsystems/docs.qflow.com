@@ -12,5 +12,5 @@ Add-ins have been developed to allow users to easily interface with Q-Action whi
 There are currently three add-ins available for interfacing with Q-Action:
 
 - [Office Add-In](/docs/using-add-ins/using-add-ins#using-the-office-and-acrobat-add-ins) - for use with Word, Excel, PowerPoint, and Outlook
-- [Acrobat Add-In](/docs/using-add-ins/using-add-ins.html#using-the-office-and-acrobat-add-ins) - for use with Adobe Acrobat
+- [Acrobat Add-In](/docs/using-add-ins/using-add-ins#using-the-office-and-acrobat-add-ins) - for use with Adobe Acrobat
 - [Chrome Extension](/docs/using-add-ins/adding-email-chrome-ext) - for use with Gmail in Google Chrome
