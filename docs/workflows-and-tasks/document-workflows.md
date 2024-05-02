@@ -14,7 +14,7 @@ When a user [adds and indexes a document](/docs/working-with-documents/add-docu
 The designated user or group then finds the Route Document Task in their Inbox and opens it to view the Route Document window.
 
 Route Document Window  
-![Route Document Window](/assets/images/q-action-route-document-window.PNG "Route Document Window")
+![Route Document Window](/assets/images/q-action-route-document-window.png "Route Document Window")
 
 Add Document to New [Workflow Folder] creates a new Folder as indicated at the top of the screen, and adds the document to it.  The first Task in the Folder's Workflow is then assigned to the appropriate user or group.
 

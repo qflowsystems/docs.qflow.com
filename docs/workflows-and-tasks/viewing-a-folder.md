@@ -18,7 +18,7 @@ has_toc: false
 
 Results on the Inbox, Folders, and Workflows Tabs all open a Folder Window when clicked.  This topic will walk you through what you will find there.
 
-![Task Folder Window](/assets/images/add-timesheet-task.PNG "Task Folder Window")
+![Task Folder Window](/assets/images/add-timesheet-task.png "Task Folder Window")
 
 At the top of the window is the Folder Type, and then options to View Folder Security(![](/assets/images/folder-security.png)), Print the Folder(![](/assets/images/print-icon.png)), or, if applicable, to Edit the Folder's index fields.  
 
