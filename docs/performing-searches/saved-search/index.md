@@ -6,8 +6,8 @@ parent: Performing Searches
 has_children: true
 has_toc: false
 ---
-Saved Searches Overview
-=======================
+# Saved Searches Overview
+---
 
 You may find yourself needing to perform the same search frequently over time.  You can of course set the search up from scratch every time, but you can also save a search so that you only have to set it up once, and then it will be available as a link in the left-hand menu to re-run any time.
 
