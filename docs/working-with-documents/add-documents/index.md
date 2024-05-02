@@ -7,4 +7,4 @@ has_children: true
 has_toc: true
 ---
 # Add Documents
-Use the table of content to navigate to different user guides.
+View the [Related Content]() below to explore the various way to add and link documents using QAction.
