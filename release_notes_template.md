@@ -6,6 +6,9 @@ parent: Release Notes
 has_children: false
 --- -->
 # #.##.##
+{: .d-inline-block } 
+Latest
+{: .label .label-green }
 ----
 ## New Features
 * FEATURE 1
