@@ -34,6 +34,6 @@ mermaid:
   version: "9.1.3"
 
 # Aux links for the upper right navigation
-aux_links:
-  "Back to QFlow Home":
-    - "//goqflow.com"
+# aux_links:
+#   "Back to QFlow Home":
+#     - "//goqflow.com"
