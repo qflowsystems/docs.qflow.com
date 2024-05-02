@@ -12,9 +12,9 @@ There are three different screens you can access in the left-hand menu that rela
 - The Folders Tab is a search screen to help users locate Folders based on index fields
 - The Workflows Tab is a search screen to help users locate Workflows based on Task data
 
-All of these are [Search screens](https://qaprod.qflow.com/QAction_help//Search_Functionality_Overview.htm) on which the user can create and [subscribe](https://qaprod.qflow.com/QAction_help//Subscribe_to_a_Saved_Search.htm) to [Saved Searches](https://qaprod.qflow.com/QAction_help//Saved_Searches_Overview.htm) just like other Search screens in the system.  These Workflow-related Search screens all ultimately open up a [Folder Screen](https://qaprod.qflow.com/QAction_help//Viewing_a_Folder.htm) when the user views a search result, but they are each customized to help you find what you are looking for in the easiest way possible.  
+All of these are [Search screens](/docs/performing-searches/) on which the user can create and [subscribe](/docs/performing-searches/saved-search/subscribing-to-a-saved-search) to [Saved Searches](/docs/performing-searches/saved-search/) just like other Search screens in the system.  These Workflow-related Search screens all ultimately open up a [Folder Screen](/docs/workflows-and-tasks/viewing-a-folder) when the user views a search result, but they are each customized to help you find what you are looking for in the easiest way possible.  
 
-Below is more information about each of these screens to help you understand their purposes. You can also walk through [Tutorial: Search for a Folder or Workflow](https://qaprod.qflow.com/QAction_help//Search_for_a_Folder_or_Workflow.htm) to more tangibly see the differences between the Folders and Workflows search screens.
+Below is more information about each of these screens to help you understand their purposes. You can also walk through [Search for a Folder or Workflow](/docs/workflows-and-tasks/search-for-workflow) to more tangibly see the differences between the Folders and Workflows search screens.
 
 ## Inbox
 The _Inbox screen_ is the default home page for Q-Action.  

@@ -28,8 +28,8 @@ Beneath the horizonal divider are special folder fields related to the type of f
 
 Finally, there are Tabs you can navigate between:
 
-- Active Task - The Task that is currently active on the Folder, and the available options to resolve the task.  Learn more about this Tab [here](https://qaprod.qflow.com/QAction_help//Folder_Active_Task_Tab.htm).
-- Documents - Documents that have been added to the folder, and any [documents with associated index fields](https://qaprod.qflow.com/QAction_help//Viewing_the_Field-Related_Documents_in_Your_Folders.htm).
+- Active Task - The Task that is currently active on the Folder, and the available options to resolve the task.  Learn more about this Tab [here](https://docs.qflow.com/docs/workflows-and-tasks/viewing-a-folder#active-task-tab).
+- Documents - Documents that have been added to the folder, and any [documents with associated index fields](/docs/workflows-and-tasks/viewing-a-folder#viewing-the-field-related-documents-in-your-folder).
 - Notes - Any Notes that have been added to the Folder.
 - Workflow - All of the Tasks that have been and will be worked for this Folder.
 - Timeline - Historical record of actions that have been taken with the Folder.

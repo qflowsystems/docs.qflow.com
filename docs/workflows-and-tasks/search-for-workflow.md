@@ -7,7 +7,7 @@ has_toc: false
 ---
 # Search for a Folder or Workflow
 
-These tutorials assume that you have a basic understanding of how Searches work.  See [Performing a Search](/docs/performing-searches/performing-a-search.html) and other topics in the Performing Searches section for more detailed guides to Searching in Q-Action.
+These tutorials assume that you have a basic understanding of how Searches work.  See [Performing a Search](/docs/performing-searches/performing-a-search) and other topics in the Performing Searches section for more detailed guides to Searching in Q-Action.
 
 ## Folder
 Follow the steps below to perform an example Folder search.

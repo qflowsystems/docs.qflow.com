@@ -9,7 +9,7 @@ has_toc: false
 
 The system can be configured to automatically launch a Workflow when certain documents are added to the system.  Workflows can be customized for different documents, document types, classifications, or departments.
 
-When a user [adds and indexes a document](https://qaprod.qflow.com/QAction_help//Upload_Documents.htm) that is configured to launch a Workflow, then the system assigns a Route Document Task to the appropriate user or group.
+When a user [adds and indexes a document](/docs/working-with-documents/add-documents/upload-documents) that is configured to launch a Workflow, then the system assigns a Route Document Task to the appropriate user or group.
 
 The designated user or group then finds the Route Document Task in their Inbox and opens it to view the Route Document window.
 

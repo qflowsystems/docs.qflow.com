@@ -25,7 +25,7 @@ has_toc: false
     - Hold Instructions - Display only while the task is on hold
     
     {: .note}
-    To create a task that starts off On Hold, see the [Hold Tasks](https://qaprod.qflow.com/QAction_help//BPMN_Tasks.htm#Hold_Tasks) section.
+    To create a task that starts off On Hold, see the [Hold Tasks](/docs/workflows-and-tasks/BPMN/BPMN-tasks#hold-tasks) section.
         
 - Terminatable - Creates a complete task option to immediately terminate the workflow
     - A complete task note is required when selecting Terminate
@@ -65,12 +65,12 @@ General Tab (pictured above):
 Advanced Tab:
 ![](/assets/images/bpmn-sequence-edge-advanced.png)
 
-1. User/Data Driven - This only applies when used with a decision [gateway](https://qaprod.qflow.com/QAction_help//BPMN_Gateways.htm).
+1. User/Data Driven - This only applies when used with a decision [gateway](/docs/workflows-and-tasks/BPMN/BPMN-gateways).
 2. Workflow Variables - Used to apply parameters that can or must be captured when completing a user task.
 3. Custom Properties - Values set for the edge that are used for system integration. 
 
 **Restrictions**
-1. All nodes with the exception of [gateways](https://qaprod.qflow.com/QAction_help//BPMN_Gateways.htm) can only have one outgoing sequence edge.
+1. All nodes with the exception of [gateways](/docs/workflows-and-tasks/BPMN/BPMN-gateways) can only have one outgoing sequence edge.
 
 ## Workflow Variables
 Workflow variables are very useful for capturing specific data from the user when they complete a task.  When the user selects the complete task option for a specific sequence edge, they will see all of the workflow variables set up for that sequence edge.
@@ -80,18 +80,18 @@ To configure workflow variables for a sequence edge, open the **Advanced** tab
 This opens the _Process Variable Editor_ window.  Here you can add workflow variables of three different types:
 
 1. **Folder** variables represent data fields on the folder.  When a user fills out a folder variable on a task, the workflow updates that field on the folder.
-2. **Process** variables are just used by the workflow itself, e.g. a data-driven [gateway](https://qaprod.qflow.com/QAction_help//BPMN_Gateways.htm) later in the workflow may reference a process variable to determine which path to follow.
+2. **Process** variables are just used by the workflow itself, e.g. a data-driven [gateway](/docs/workflows-and-tasks/BPMN/BPMN-gateways) later in the workflow may reference a process variable to determine which path to follow.
 3. **Document** variables prompt for a document of the selected Classification and Document Type.  If a matching document is found in the folder, it will be shown, otherwise the user can upload a new document.
 
 Each workflow variable added to an edge can be Required or optional.
 
-When a [hierarchy field](https://qaprod.qflow.com/QAction_help//Types_of_Search_Filters.htm#Hierarchy_Filters) is added as a workflow variable, it can be anchored to a specific location in the hierarchy so that users don't have to navigate through the whole hierarchy tree to find the group that is relevant to the workflow.  Hierarchy fields can also be configured to show users under the selected location (as opposed to just showing groups/positions/etc). 
+When a [hierarchy field](/docs/performing-searches/types-of-search-filters#hierarchy-filters) is added as a workflow variable, it can be anchored to a specific location in the hierarchy so that users don't have to navigate through the whole hierarchy tree to find the group that is relevant to the workflow.  Hierarchy fields can also be configured to show users under the selected location (as opposed to just showing groups/positions/etc). 
 
 Hierarchy workflow variables can be especially useful when a task later in the workflow should be assigned to a specific group, position, or user selected earlier in the workflow.  To accomplish this, the relevant swimlane just needs to be assigned to the same folder field as the workflow variable.
 
 ## Hold Tasks
 
-A hold task in Q-Action is defined by a BPMN complex [gateway](https://qaprod.qflow.com/QAction_help//BPMN_Gateways.htm) node. This creates a user task that starts on hold, and unlike a “holdable” task, when it is taken off hold it must follow a sequence edge to another node.
+A hold task in Q-Action is defined by a BPMN complex [gateway](/docs/workflows-and-tasks/BPMN/BPMN-gateways) node. This creates a user task that starts on hold, and unlike a “holdable” task, when it is taken off hold it must follow a sequence edge to another node.
 
 ![](/assets/images/bpmn-hold-task.png)
 

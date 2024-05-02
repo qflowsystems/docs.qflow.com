@@ -25,7 +25,7 @@ Usually, Workflows will follow Organizational Workflow Templates that have been 
     The Edit Tasks window appears.  
     ![Edit Tasks Window](/assets/images/edit-tasks-personal.png "Edit Tasks Window")
 4. Enter information in the required fields.  
-    For detailed information on adding a task to the workflow template using the **Add Task** link on this screen, refer to [Creating Tasks for Workflows](https://qaprod.qflow.com/QAction_help//Creating_Tasks_for_Workflows.htm).
+    For detailed information on adding a task to the workflow template using the **Add Task** link on this screen, refer to [Creating Tasks for Workflows](/docs/workflows-and-tasks/advanced-workflow-tips#creating-tasks-for-workflows).
 5. Optional: In the Edit Tasks window again, click Insert Template.  
     The Select Template window appears.
 6. Optional: Select an existing template or create a new one, and then click Select.  
@@ -35,9 +35,9 @@ Usually, Workflows will follow Organizational Workflow Templates that have been 
 
 
 # Creating Tasks for Workflows
-Want to learn how to create organizational workflows that your entire team can use? Visit the [Process Administrator](https://qaprod.qflow.com/QAction_help//Creating_Folder_Definitions.htm) tasks under the Administrator section. Additionally, if a process administrator gave your Create On-Demand privileges, see [Creating Folders](https://qaprod.qflow.com/QAction_help//Creating_Folders.htm) to create On-Demand organizational workflows.
+Want to learn how to create organizational workflows that your entire team can use? Visit the [Process Administrator](/docs/administrator-roles/process-admin) tasks under the Administrator section. Additionally, if a process administrator gave your Create On-Demand privileges, see [Creating Folders](/docs/workflows-and-tasks/launch-workflows#creating-folders-to-launch-workflows) to create On-Demand organizational workflows.
 
-If you are a process administrator, you can also set up tasks by navigating to (a) Administration menu > Folder Configuration > Add New Folder Definition > Initiating Docs tab > Add Initiating Document Settings > Create New Folder checkbox > Manually Setup Folder > Choose Options or (b) Administration menu > Folder Configuration > Add New Folder Definition > Create On Demand tab > Manual Setup Folder > Choose Options. See the [Creating Folder Definitions](https://qaprod.qflow.com/QAction_help//Creating_Folder_Definitions.htm) procedure.
+If you are a process administrator, you can also set up tasks by navigating to (a) Administration menu > Folder Configuration > Add New Folder Definition > Initiating Docs tab > Add Initiating Document Settings > Create New Folder checkbox > Manually Setup Folder > Choose Options or (b) Administration menu > Folder Configuration > Add New Folder Definition > Create On Demand tab > Manual Setup Folder > Choose Options. See the [Creating Folder Definitions](/docs/administrator-roles/process-admin#creating-folder-definitions) procedure.
 
 1. In the top-right of the application, click Templates > Workflow Templates, and then click the Personal or Organizational tab.  
     The Workflow Templates screen appears.  
