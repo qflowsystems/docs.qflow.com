@@ -24,7 +24,7 @@ callouts:
     title: " Warning"
     color: red
   info:
-    title: "  Info"
+    title: "  Pro Tip"
     color: blue
 
 search_enabled: true

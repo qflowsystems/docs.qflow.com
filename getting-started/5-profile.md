@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Step 5: Update Your Profile"
-parent: Getting Started
+parent: Welcome
 has_children: false
 ---
 # Step 5: Update Your Profile

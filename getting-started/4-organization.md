@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Step 4: Get Organized"
-parent: Getting Started
+parent: Welcome
 has_children: false
 ---
 # Step 4: Get Organized

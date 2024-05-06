@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Step 2: Saved Searches"
-parent: Getting Started
+parent: Welcome
 has_children: false
 ---
 # Step 2: Saved Searches
