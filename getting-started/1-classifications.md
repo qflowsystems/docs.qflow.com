@@ -13,4 +13,5 @@ You can also add additional filters to your search using the **Filters** drop-
 
 > [Click here to learn more about performing searches](/docs/performing-searches/)
 
+
 ![](/assets/images/perform-document-search.gif)
