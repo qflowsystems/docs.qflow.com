@@ -16,3 +16,7 @@ The **Inbox** has three tabs, which are sort of like special saved searches. The
 
 
 ![](/assets/images/inbox.gif)
+
+ [Back to Step 2](/getting-started/2-saved-search)
+
+ [On to Step 4](/getting-started/4-organization)

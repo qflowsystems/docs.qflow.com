@@ -17,3 +17,7 @@ When you click Save, this adds the search to your left-hand menu under the rele
 
 
 ![](/assets/images/save-search.gif)
+
+ [Back to Step 1](/getting-started/1-classifications)
+
+ [On to Step 3](/getting-started/3-inbox)

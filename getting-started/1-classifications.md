@@ -16,3 +16,8 @@ You can also add additional filters to your search using the **Filters** drop-
 
 
 ![](/assets/images/perform-document-search.gif)
+
+
+ [Back to Welcome](/)
+
+ [On to Step 2](/getting-started/2-saved-search)

@@ -11,3 +11,5 @@ After a new release has been deployed, the What's New pop-up will show you a s
 > [Click here to learn more about Q-Action's latest new features](/)
 
 ![](/assets/images/whats-new-contact-support.gif)
+
+ [Back to Step 5](/getting-started/5-profile)

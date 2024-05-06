@@ -16,3 +16,8 @@ If you mistakenly add something to a group, you can either drag it back out of t
 
 
 ![](/assets/images/organize.gif)
+
+
+ [Back to Step 3](/getting-started/3-inbox)
+
+ [On to Step 5](/getting-started/5-profile)

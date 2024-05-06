@@ -16,3 +16,8 @@ Additionally, you can set up other users as **Proxies** which allows them to p
 
 
 ![](/assets/images/user-profile-default-start-page.gif)
+
+
+ [Back to Step 4](/getting-started/4-organization)
+
+ [On to Step 6](/getting-started/6-new-releases)
