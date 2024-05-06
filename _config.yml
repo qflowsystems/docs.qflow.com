@@ -23,6 +23,9 @@ callouts:
   warning:
     title: " Warning"
     color: red
+  info:
+    title: "  Pro Tip"
+    color: blue
 
 search_enabled: true
 heading_anchors: true
