@@ -11,7 +11,7 @@ You can change many other settings on this screen, too, such as the appearances 
 
 Additionally, you can set up other users as **Proxies** which allows them to perform various actions on your behalf.  This is useful if for instance you will be out on vacation and need someone else to cover your work for that time.
 
-{: .note}
+{: .info}
 > [Click here to learn more about the user profile](/docs/user-preferences/)
 
 

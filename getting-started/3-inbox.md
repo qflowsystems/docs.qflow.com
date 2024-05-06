@@ -11,7 +11,7 @@ If your organization uses Workflows, the **Inbox** is where you will find tasks 
 
 The **Inbox** has three tabs, which are sort of like special saved searches. These tabs show you your active tasks, on hold tasks, and recently completed tasks.  You can also add search filters and create your own saved searches on this screen as shown in the previous slides.
 
-{: .note}
+{: .info}
 > [Click here to learn more about workflows and the inbox](/docs/workflows-and-tasks/)
 
 

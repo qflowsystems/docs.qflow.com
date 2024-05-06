@@ -11,7 +11,7 @@ In the menu for top-level search links such as **Documents**, you can click **C
 
 If you mistakenly add something to a group, you can either drag it back out of the group, or use its drop-down menu to remove it from the group, which moves it outside of the group it's currently in. When you are finished organizing, simply click Done to return the menu to its normal appearance.
 
-{: .note}
+{: .info}
 > [Click here to learn more about organizing the left-hand menu](/docs/performing-searches/saved-search/organizing-personal-and-org-saved-searches)
 
 
