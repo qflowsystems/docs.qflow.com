@@ -8,7 +8,7 @@ has_toc: false
 # Welcome to QAction
 Start with our brief tutorial around our application. [Let's go!](/getting-started/1-classifications)
 
-You can also find more in-depth information about Q-Action by exploring the docs below.
+You can also find more in-depth information about QAction by exploring the docs below.
 
 {: .info}
 You can always get back here from the application by click **Help** > **Restart Welcome Tutorial**
