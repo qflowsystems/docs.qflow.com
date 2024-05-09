@@ -24,7 +24,7 @@ The Upload Documents window appears.
 ![](/assets/images/upload-documents-drop-here.png)
 3.  If necessary, drag and drop additional documents or click Upload to browse for more documents to upload.
 {: .note}  
-Password-protected PDFs are not allowed to be added to Q-Action, and you will see an error message if you attempt to upload one.  
+Password-protected PDFs are not allowed to be added to QAction, and you will see an error message if you attempt to upload one.  
 See [Handling Add Document Errors](/docs/working-with-documents/add-documents/handling-add-document-errors) for what to do in the event that adding a document is unsuccessful for other reasons.
 4.  Review these optional actions you can take to manage your upload queue:  
     ![](/assets/images/upload-documents-uploading-multiple.png)

@@ -18,7 +18,7 @@ This task requires certain user privileges. Check with your system administrator
 3. Click **Delete Document**. The document is permanently deleted from the repository.
 
 4. If a message window appears, click **Delete**.  
-![](/assets/images/q-action-delete-message.png)
+![](/assets/images/QAction-delete-message.png)
     
 {: .note}
 If you are deleting a document in a folder that someone is working in, you may want to let them know that the document will no longer be available.

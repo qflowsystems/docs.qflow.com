@@ -17,7 +17,7 @@ You must have permission to modify indexes on a given document.  Some documents
     
 3. Click Modify Index.  
     The Modify Document Indexes window appears.  
-    ![Modify Document Indexes Window](https://qaprod.qflow.com/QAction_help//assets/images/images/q-action-modify-documents-indexes-window.png "Modify Document Indexes Window")
+    ![Modify Document Indexes Window](https://qaprod.qflow.com/QAction_help//assets/images/images/QAction-modify-documents-indexes-window.png "Modify Document Indexes Window")
 4. Update any fields and click Save.
 
 ## Multiple Documents

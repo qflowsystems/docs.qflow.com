@@ -7,7 +7,7 @@ has_toc: false
 ---
 # Exporting Search Results
 ---
-Usually, when performing searches, the user is trying to locate something to look at or perform work on within Q-Action.  However, sometimes a user may instead wish to perform a search in order to generate a report about data in Q-Action to analyze, present, or work with elsewhere.
+Usually, when performing searches, the user is trying to locate something to look at or perform work on within QAction.  However, sometimes a user may instead wish to perform a search in order to generate a report about data in QAction to analyze, present, or work with elsewhere.
 There are two ways to export data from a search:
 * Have the system run the search in the background and send the user a notification once the results have been exported.
 * Run the search in the browser and then manually export the results.  
@@ -18,7 +18,7 @@ No matter which way you plan to export data from your search, first follow these
 Then, follow the steps below for the type of export you want to do.
 
 ## Run Search in Background
-This option allows the user to continue using Q-Action while the search executes and exports, rather than having to wait on the search screen for the search to complete in the browser.
+This option allows the user to continue using QAction while the search executes and exports, rather than having to wait on the search screen for the search to complete in the browser.
 Once the filters and columns for the search are all set up, click the arrow on the right of the Search button. This will open the Search drop-down menu.
 
 ### Search drop-down menu  
@@ -42,7 +42,7 @@ To view the status of the export, click on your username in the top right corner
 Open a completed export by clicking on the title of the export.  This will download an Excel spreadsheet containing the results of the completed search.
 
 ## Run Search in Browser
-This option allows the user to open and work with search results in Q-Action in addition to exporting the results once the search is completed.
+This option allows the user to open and work with search results in QAction in addition to exporting the results once the search is completed.
 Once the filters and columns for the search are all set up, click the Search button.  This will perform the search and display the results in the browser.
 Once the results are displayed, locate the Export As options above the search results.
 

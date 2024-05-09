@@ -8,11 +8,11 @@ has_toc: false
 ---
 # Configuring the Email Chrome Extension
 
-The Chrome Extension allows users to configure the URL for the Q-Action application.  This allows for users to change the URL, usually for testing purposes, without having to install a whole different version of the extension.  However this requires that the user does configure the URL before the extension can be used.  
+The Chrome Extension allows users to configure the URL for the QAction application.  This allows for users to change the URL, usually for testing purposes, without having to install a whole different version of the extension.  However this requires that the user does configure the URL before the extension can be used.  
 
-If a URL has not been configured when the user goes to add an email to Q-Action, the following error message will be displayed:
+If a URL has not been configured when the user goes to add an email to QAction, the following error message will be displayed:
 
-Please configure Q-Action url in extension options.
+Please configure QAction url in extension options.
 
 Follow the steps below to configure the URL.
 

@@ -23,7 +23,7 @@ This task requires certain user privileges. Check with your system administrator
     
 5. Click Edit Collection.  
     The Add/Modify Collection window appears.  
-    ![Add/Modify Collection Window](/assets/images/q-action-addmodify-collection-window.png "Add/Modify Collection Window")
+    ![Add/Modify Collection Window](/assets/images/QAction-addmodify-collection-window.png "Add/Modify Collection Window")
 
 6. Edit the collection name, description, or classification, and then click Save.  
     The changes made appear in the Documents Collection window.

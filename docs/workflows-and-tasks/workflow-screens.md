@@ -17,7 +17,7 @@ All of these are [Search screens](/docs/performing-searches/) on which the use
 Below is more information about each of these screens to help you understand their purposes. You can also walk through [Search for a Folder or Workflow](/docs/workflows-and-tasks/search-for-workflow) to more tangibly see the differences between the Folders and Workflows search screens.
 
 ## Inbox
-The _Inbox screen_ is the default home page for Q-Action.  
+The _Inbox screen_ is the default home page for QAction.  
 
 Within the Inbox screen, there are three tabs: Active Tasks, On Hold, and Recently Completed.  Active Tasks and On Hold show the user Tasks that are assigned to them, separated out by the Tasks's current status (Active or On Hold).  Recently Completed shows the user Tasks that were recently completed by them.
 

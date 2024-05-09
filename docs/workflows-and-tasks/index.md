@@ -8,7 +8,7 @@ has_toc: true
 
 # Workflow Management Introduction
 
-Workflows allow your organization to track business process information alongside documents and other content within Q-Action.
+Workflows allow your organization to track business process information alongside documents and other content within QAction.
 
 There are three main concepts that are important to understand:
 

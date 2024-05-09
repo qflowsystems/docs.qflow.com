@@ -8,15 +8,15 @@ has_toc: false
 ---
 # Adding an E-mail with Chrome Extension
 
-Follow the steps below to add an email from within Chrome using the Q-Action GMail Chrome Extension.
+Follow the steps below to add an email from within Chrome using the QAction GMail Chrome Extension.
 
-If you normally need to be on a VPN to access Q-Action, be sure to get on the VPN.
+If you normally need to be on a VPN to access QAction, be sure to get on the VPN.
 
 1. Navigate to Gmail and open an email message.  In the top right-hand corner of the e-mail is a large blue Q icon.  
     ![](/assets/images/QActionIcon.png)  
     Note that in an e-mail chain, this icon will be displayed at the top of each e-mail.  This is because the Chrome extension will only add one email from a chain at a time.  Navigate to the email message you specifically want to add to the system.
 2. Click the Q icon.  
-    This opens the Q-Action upload pop-up.  
+    This opens the QAction upload pop-up.  
     
 3. Log in to the application.  
     The [Email Upload Wizard](docs/using-add-ins/email-upload-wizard) screen opens, where you can select which attachments you want to add as separate documents in the system.  

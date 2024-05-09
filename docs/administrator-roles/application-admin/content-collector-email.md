@@ -15,9 +15,9 @@ Use this screen to do the following:
     
 
 ## Adding Content Collector Emails
-This functionality uses the IBM Collective Content Services in the background to collect and store emails in Q-Action, so that important emails can be automatically backed up. Fields like Classification and Document Type are defined so that emails are backed up and stored using that index information. If a user has the necessary privileges, they can locate the stored emails using these fields values to filter the search.
+This functionality uses the IBM Collective Content Services in the background to collect and store emails in QAction, so that important emails can be automatically backed up. Fields like Classification and Document Type are defined so that emails are backed up and stored using that index information. If a user has the necessary privileges, they can locate the stored emails using these fields values to filter the search.
 
-The content collector services uses the email addresses entered to locate end-user email inboxes and then it automatically backs up and indexes the emails in Q-Action using the fields and values you selected in the previous steps.
+The content collector services uses the email addresses entered to locate end-user email inboxes and then it automatically backs up and indexes the emails in QAction using the fields and values you selected in the previous steps.
 
 The following task is an example scenario for using this screen.
 
@@ -38,7 +38,7 @@ The following task is an example scenario for using this screen.
 4. Enter an email address.  
     
     {: .note}
-    Content collector services uses this email address to locate end-user email inboxes and then it automatically backs up and indexes the emails in Q-Action using the fields and values you selected in the previous steps.
+    Content collector services uses this email address to locate end-user email inboxes and then it automatically backs up and indexes the emails in QAction using the fields and values you selected in the previous steps.
     
 5. Click **Save**.  
 

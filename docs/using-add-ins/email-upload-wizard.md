@@ -8,12 +8,12 @@ has_toc: false
 ---
 # Email Upload Wizard
 
-Emails and attachments can be added to Q-Action from within Outlook using the [Office Add-In](/docs/using-add-ins/using-add-ins#using-the-office-and-acrobat-add-ins), or from within Gmail using the [Chrome Extension](/docs/using-add-ins/adding-email-chrome-ext).
+Emails and attachments can be added to QAction from within Outlook using the [Office Add-In](/docs/using-add-ins/using-add-ins#using-the-office-and-acrobat-add-ins), or from within Gmail using the [Chrome Extension](/docs/using-add-ins/adding-email-chrome-ext).
 
-Adding an Email to Q-Action from Within Outlook  
+Adding an Email to QAction from Within Outlook  
 ![](/assets/images/email-upload-wizard-outlook.png)
 
-After clicking Add to Q-Action, a browser tab will open and opt the user to login.  Then, the Email Upload Wizard will display.
+After clicking Add to QAction, a browser tab will open and opt the user to login.  Then, the Email Upload Wizard will display.
 
 Email Upload Wizard Screen  
 ![](/assets/images/email-upload-wizard-single-example.png)  
@@ -26,9 +26,9 @@ Info Pop-Up
 
 The Select All checkbox will select every single file displayed on the screen, while the Select Attachments Only checkbox will select all of the standalone attachment files, and not any of the Email File documents.
 
-If you click Cancel, all of the documents will be discarded and you will be taken to the default screen in Q-Action.
+If you click Cancel, all of the documents will be discarded and you will be taken to the default screen in QAction.
 
-Once you have selected which specific document(s) you want to add to Q-Action, click Upload Selected.  
+Once you have selected which specific document(s) you want to add to QAction, click Upload Selected.  
 
 Documents Selected  
 ![](/assets/images/email-upload-wizard-selected.png)  

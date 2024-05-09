@@ -8,7 +8,7 @@ has_toc: false
 ---
 # PDF Security
 
-The security on a PDF document impacts how the document behaves with the Acrobat Add-In as well as within Q-Action.
+The security on a PDF document impacts how the document behaves with the Acrobat Add-In as well as within QAction.
 
 ## Unprotected
 
@@ -18,11 +18,11 @@ For unprotected documents, the add-in will be able to perform all expected funct
 
 ## Already Signed
 
-Documents that are added to Q-Action without any signatures, then checked out and signed and check back in again, will work just like unprotected documents.
+Documents that are added to QAction without any signatures, then checked out and signed and check back in again, will work just like unprotected documents.
 
-However, when a document is _added_ to Q-Action that _already_ has a signature on it, there are some functions that Q-Action is unable to perform on the document, which affects the way the add-in will work.
+However, when a document is _added_ to QAction that _already_ has a signature on it, there are some functions that QAction is unable to perform on the document, which affects the way the add-in will work.
 
-In particular, when the user checks out a document that was already signed when it was added, and then opens the document in Acrobat, the add-in is not able to finish the check out process automatically, and the user must intervene.  In these situations, when the user first opens the Q-Action Menus, there will be a Finish Check Out menu item instead of the usual Check In etc.
+In particular, when the user checks out a document that was already signed when it was added, and then opens the document in Acrobat, the add-in is not able to finish the check out process automatically, and the user must intervene.  In these situations, when the user first opens the QAction Menus, there will be a Finish Check Out menu item instead of the usual Check In etc.
 
 ![](/assets/images/finish-checkout-menu-item.png)
 
@@ -30,9 +30,9 @@ Once you select the Finish Check Out menu item, then you can go about making t
 
 ## Encrypted
 
-Encrypted documents require a password to edit the document, which prevents the add-in from manipulating the PDF in ways that are required to do anything other than add the document to Q-Action. 
+Encrypted documents require a password to edit the document, which prevents the add-in from manipulating the PDF in ways that are required to do anything other than add the document to QAction. 
 
-The user will still be able to check out an encrypted document, make changes in Acrobat, and then check in the document using Q-Action directly, but will not be able to check the document in through the Add-In.
+The user will still be able to check out an encrypted document, make changes in Acrobat, and then check in the document using QAction directly, but will not be able to check the document in through the Add-In.
 
 Encrypted documents will have security settings like this:
 

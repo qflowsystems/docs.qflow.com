@@ -8,7 +8,7 @@ has_toc: false
 # Search Functionality Overview
 ---
 
-Q-Action provides robust search functionality that empowers users to find exactly what they are looking for in the system.  Understanding Q-Action's search screens is a cornerstone to making the application work for you.  
+QAction provides robust search functionality that empowers users to find exactly what they are looking for in the system.  Understanding QAction's search screens is a cornerstone to making the application work for you.  
 
 Each of the options in the left-hand menu takes you to a Search screen, all of which work in very similar ways.  Even the Inbox is a Search screen with added features.  More detailed information about how the Inbox is different from other Search screens can be found in the [Workflow & Tasks section](/docs/workflows-and-tasks/).
 

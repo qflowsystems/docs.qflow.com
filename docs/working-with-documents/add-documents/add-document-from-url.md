@@ -14,7 +14,7 @@ This is an optional feature that may or may not be enabled in your environment. 
 This feature enables users to add documents to the system from a URL, such as a link to a Google Doc.  Documents added this way are not actually stored in the system, but can be queried, added to folders, etc just like other documents.  When users open such documents, a new tab launches with the URL for the document.
 
 {: .important}
-Q-Action has no control over whether documents added this way are deleted externally.  So if for example a link to a Google Doc is saved in Q-Action, and then the Google Doc is deleted from the user's Google account, then the link will still be in Q-Action and simply fail to load when a user tries to open it.
+QAction has no control over whether documents added this way are deleted externally.  So if for example a link to a Google Doc is saved in QAction, and then the Google Doc is deleted from the user's Google account, then the link will still be in QAction and simply fail to load when a user tries to open it.
 
 When this feature is enabled, anywhere there is an option to Browse to add files to the system, the option to Add from URL will also be available.
 

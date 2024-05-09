@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Performing a Document Check In and Out in Q-Action
+title: Performing a Document Check In and Out in QAction
 nav_order: 4
 parent: Document Actions
 grand_parent: Working with Documents
 has_children: false
 has_toc: false
 ---
-# Performing a Document Check In and Out in Q-Action
+# Performing a Document Check In and Out in QAction
 
 1. In the left navigation pane, click Documents, and perform a search to locate a document.
     
@@ -21,7 +21,7 @@ The document cannot be checked out by another user until the current user checks
 
 4. Open the document and make changes as needed.
 
-5. To check the document in after making changes, save the document, and return to the Document screen in Q-Action.
+5. To check the document in after making changes, save the document, and return to the Document screen in QAction.
 
 6. Click the Actions menu next to the document title.
     

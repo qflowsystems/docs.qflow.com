@@ -11,7 +11,7 @@ has_toc: false
 ---
 A user with indexing operator privileges can access the **Index Documents** link in the left-hand menu.
 
-The Index Documents screen shows batches that have been scanned or otherwise imported into Q-Action such as through a fax integration.  These batches need to be split into distinct documents as appropriate, and indexed with the proper metadata to be fully added to the system. 
+The Index Documents screen shows batches that have been scanned or otherwise imported into QAction such as through a fax integration.  These batches need to be split into distinct documents as appropriate, and indexed with the proper metadata to be fully added to the system. 
 
 1. In the left navigation pane, click Index Documents.  
     The Index Documents screen appears.  

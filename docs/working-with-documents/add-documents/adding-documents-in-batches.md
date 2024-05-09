@@ -82,7 +82,7 @@ The Re-Route and Download options are only available when opening the Batch Asse
 
 After clicking **Re-Route**, the _Assignee Selection_ window will open, where the user can select a different organization to route the batch to for indexing.
 
-If the batch was sent to Q-Action altogether in error, the user can click **Download** to save the batch to their computer and send it to the proper contact.
+If the batch was sent to QAction altogether in error, the user can click **Download** to save the batch to their computer and send it to the proper contact.
 
 ## Notifications
 If working from the Upload Documents screen, you will receive a notification once the Batch Assembly has succeeded or failed.  If it succeeded, clicking on the notification will take you to the Document Search screen with the documents from the batch showing in the results.

@@ -14,7 +14,7 @@ Review the following related tasks.
 
 - [Create batch cover sheets](/docs/special-user-privileges/scanning-and-indexing#creating-document-separator-cover-sheets) or [document separator sheets](/docs/special-user-privileges/scanning-and-indexing#creating-document-batch-cover-sheets) using the correct procedures.
     
-- For document batches, insert Batch Cover Sheets between documents, and then use your [scanning software](/docs/special-user-privileges/scanning-and-indexing#using-theq-actionscan-application) to scan the documents.
+- For document batches, insert Batch Cover Sheets between documents, and then use your [scanning software](/docs/special-user-privileges/scanning-and-indexing#using-theQActionscan-application) to scan the documents.
     
 - Once all documents are scanned, visit the Index Documents screen to [index the batches](/docs/special-user-privileges/scanning-and-indexing#index-documents-screen).
     

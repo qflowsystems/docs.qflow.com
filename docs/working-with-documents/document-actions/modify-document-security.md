@@ -18,7 +18,7 @@ Any security changes you make for a specific document takes precedence over the 
 2. Click the **Actions** menu next to the document title.
     
 3. Click **Modify Security**. The _Modify Document Security_ window appears.  
-![](/assets/images/q-action-modify-document-security-window.png)
+![](/assets/images/QAction-modify-document-security-window.png)
 
 4. Select or clear the permissions for user roles to remove or add capabilities, and click **Save**.
 

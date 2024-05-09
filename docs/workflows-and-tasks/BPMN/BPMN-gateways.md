@@ -9,7 +9,7 @@ has_toc: false
 ---
 # BPMN Gateways
 ## Decision Gateway
-A decision gateway marks the point in a workflow where a route decision is made either by the user or automatically by the system. These decisions can take one or many different routes. (Note: Currently in Q-Action we only support one route, also called an exclusive gateway)
+A decision gateway marks the point in a workflow where a route decision is made either by the user or automatically by the system. These decisions can take one or many different routes. (Note: Currently in QAction we only support one route, also called an exclusive gateway)
 
 ## User Driven Exclusive Gateway
 A user driven gateway requires a manually decision by the user when completing the previous task. The decisions are named based on the name of the sequence edges coming out of the decision gateway.

@@ -24,7 +24,7 @@ Folder Definitions link to a workflow and define the index fields that appear fo
 2. Click Add New Workflow Folder Definitions.  
     The Create Folder Definition window appears.  
     ![Create Folder Definition Window](/assets/images/folder-definition-blank.png "Create Folder Definition Window")  
-    Note that the options on the left of the screen may vary slightly based on your organization's Q-Action setup.  In particular, if your organization has [Records Management](/docs/records-management), then you will see a **Retention** tab in addition to the tabs pictured above.
+    Note that the options on the left of the screen may vary slightly based on your organization's QAction setup.  In particular, if your organization has [Records Management](/docs/records-management), then you will see a **Retention** tab in addition to the tabs pictured above.
     
 3. Enter a Folder Name and Description. You will want to leave the Status field as Active.
     

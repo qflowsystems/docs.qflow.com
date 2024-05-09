@@ -18,13 +18,13 @@ has_toc: false
 
 Access your user profile to configure your user preferences.
 
-1. Locate and click your username on the top-right of any Q-Action screen, and click Profile.  
+1. Locate and click your username on the top-right of any QAction screen, and click Profile.  
     * The User Profile window appears.  
     ![User Profile Window - Preferences](/assets/images/preferences.png "User Profile Window - Preferences")
 
     * Access your user profile to configure your user preferences.
 
-1. Locate and click your username on the top-right of any Q-Action screen, and click Profile.  
+1. Locate and click your username on the top-right of any QAction screen, and click Profile.  
     * The User Profile window appears.  
     ![User Profile Window - Preferences](/assets/images/preferences.png "User Profile Window - Preferences")
     
@@ -53,7 +53,7 @@ A proxy is a user who can log in as you to perform certain maintenance actions, 
 - Any documents that were in the proxy user's Upload queue appear on the [Upload Documents](/docs/working-with-documents/add-documents/upload-documents) screen.  Documents on this screen can be added to the system or removed from the queue, but no new documents may be added to the queue.
 
 Follow the steps below to setup another user's ability to proxy for you.
-1. Locate and click your username on the top-right of any Q-Action screen, and click Profile.  
+1. Locate and click your username on the top-right of any QAction screen, and click Profile.  
     - The User Profile window appears.
     
 2. Click Proxies, and then click Add.  

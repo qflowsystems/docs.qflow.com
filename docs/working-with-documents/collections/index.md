@@ -8,7 +8,7 @@ has_toc: true
 ---
 # Document Collections
 ---
-In Q-Action, each document has a special index field called Collection. A collection links documents together that are related to one another. With collections, users can easily find all documents related for a specific event or purpose. A document can be linked to multiple collections. Like documents, each collection is associated with a classification.
+In QAction, each document has a special index field called Collection. A collection links documents together that are related to one another. With collections, users can easily find all documents related for a specific event or purpose. A document can be linked to multiple collections. Like documents, each collection is associated with a classification.
 
 Document collections allow multiple related documents to be viewed together. They also allow the documents to have their security managed as a group.
 

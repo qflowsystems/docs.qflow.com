@@ -18,7 +18,7 @@ When you perform a search on the Search Documents screen, you can add a new docu
     The search results appear.
 3.  Drag & drop a file over a document in the search results.  
     ![](/assets/images/search-add-over-existing-Ascension.png)
-4.  If your installation of Q-Action has document versioning enabled, then the Document Preferences window appears.  
+4.  If your installation of QAction has document versioning enabled, then the Document Preferences window appears.  
     ![](/assets/images/document-preferences-window.PNG)  
     Note that if a document is checked out by another user, the Document Preferences window only has the Add New Document option available.  
       

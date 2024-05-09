@@ -7,7 +7,7 @@ has_toc: false
 ---
 # Document Classifications
 ---
-In Q-Action, documents are organized by classifications. When a document is added, the user must select its classification. The classification is stored as an index value for the document.
+In QAction, documents are organized by classifications. When a document is added, the user must select its classification. The classification is stored as an index value for the document.
 
 A document’s classification determines its:
 * Default Security – the users who can view or modify the document or its indexes.

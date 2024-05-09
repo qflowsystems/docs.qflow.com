@@ -91,7 +91,7 @@ Hierarchy workflow variables can be especially useful when a task later in the w
 
 ## Hold Tasks
 
-A hold task in Q-Action is defined by a BPMN complex [gateway](/docs/workflows-and-tasks/BPMN/BPMN-gateways) node. This creates a user task that starts on hold, and unlike a “holdable” task, when it is taken off hold it must follow a sequence edge to another node.
+A hold task in QAction is defined by a BPMN complex [gateway](/docs/workflows-and-tasks/BPMN/BPMN-gateways) node. This creates a user task that starts on hold, and unlike a “holdable” task, when it is taken off hold it must follow a sequence edge to another node.
 
 ![](/assets/images/bpmn-hold-task.png)
 

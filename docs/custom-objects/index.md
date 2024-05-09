@@ -9,7 +9,7 @@ has_toc: false
 # Custom Objects Overview
 ---
 
-Q-Action is a highly customizable application that varies significantly from environment to environment, in order to accommodate each unique set of business needs.  One place this shows up most clearly is in Custom Objects.
+QAction is a highly customizable application that varies significantly from environment to environment, in order to accommodate each unique set of business needs.  One place this shows up most clearly is in Custom Objects.
 
 A Custom Object is a group of related data collected into a single object.  For instance, an environment might have an Employee object that contains data such as an employee's name, phone number, and address.  For that matter, an Address might be its own Custom Object, containing data such as street address, city, state, and zip code.  In that way, Custom Objects can be fields on other Custom Objects.
 

@@ -18,11 +18,11 @@ has_toc: false
 
 4. Click Add Note.  
 * The Add Note window appears.  
-![](/assets/images/q-action-add-note-window.png)
+![](/assets/images/QAction-add-note-window.png)
 
 5. Enter the content for your note, and click Save.  
 * The note appears in the Document Notes window with the username of its creator, and the date and time that it was saved.  
-![](/assets/images/q-action-document-notes-window-populated.png)
+![](/assets/images/QAction-document-notes-window-populated.png)
 
 6. To view a long note without scrolling, click the Expand button (![](/assets/images/expand-icon.PNG)) next to the note metadata. The _View Note_ window appears.
 

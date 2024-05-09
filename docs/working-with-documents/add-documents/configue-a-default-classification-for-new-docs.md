@@ -13,7 +13,7 @@ Users can update their profile settings so that new documents added to the syste
 ![](/assets/images/preferences.png "User Profile Window - PreferencesUser Profile Window - Preferences")
 * The classification appears in the Pick default classification field.
 
-1. Locate and click your username on the top-right of any Q-Action screen.  
+1. Locate and click your username on the top-right of any QAction screen.  
 * This opens a drop-down menu.
     
 2. Click Profile.  

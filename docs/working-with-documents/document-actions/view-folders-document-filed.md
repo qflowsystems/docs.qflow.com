@@ -15,7 +15,7 @@ has_toc: false
     
 3. Click View Folders Filed In.  
     The Documents Folder window appears.  
-    ![Example of Document Folders Window](/assets/images/q-action-doc-folders-timesheet-tyler-austin.png "Example of Document Folders Window")
+    ![Example of Document Folders Window](/assets/images/QAction-doc-folders-timesheet-tyler-austin.png "Example of Document Folders Window")
     
 4. To view the folder contents, click the folder title, or click the folder's Action menu, and then click Open.  
-    ![Example of Detailed View of Document Folder Contents](/assets/images/q-action-tasks-detail-view-for-folder.png "Example of Detailed View of Document Folder Contents")
+    ![Example of Detailed View of Document Folder Contents](/assets/images/QAction-tasks-detail-view-for-folder.png "Example of Detailed View of Document Folder Contents")

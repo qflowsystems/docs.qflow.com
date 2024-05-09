@@ -83,10 +83,10 @@ This task can be performed by end-users, as long as a process administrator has 
 
 
 # Printing a Folder
-Q-Action allows users to print Folders using the Print Icon(![](https://qaprod.qflow.com/QAction_help//assets/images/images/Icons/print-icon.png)) at the top of the Folder screen, or by selecting the Print menu option in a Folder's Action menu on a Search Screen.  In either case, the Print Folder Window appears.
+QAction allows users to print Folders using the Print Icon(![](https://qaprod.qflow.com/QAction_help//assets/images/images/Icons/print-icon.png)) at the top of the Folder screen, or by selecting the Print menu option in a Folder's Action menu on a Search Screen.  In either case, the Print Folder Window appears.
 
 Print Folder Window  
-![Print Folder Window](https://qaprod.qflow.com/QAction_help//assets/images/images/q-action-print-folder-window.png "Print Folder Window")
+![Print Folder Window](https://qaprod.qflow.com/QAction_help//assets/images/images/QAction-print-folder-window.png "Print Folder Window")
 
 -   In the Print Folder window, select one of the following options:
 

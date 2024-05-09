@@ -10,7 +10,7 @@ has_toc: false
 # Viewing Rescan Queue
 ---
 1. Within the application, click the Scanning menu at the top-right.  
-    ![Scanning Menu](/assets/images/q-action-scanning-menu.PNG "Scanning Menu")
+    ![Scanning Menu](/assets/images/QAction-scanning-menu.PNG "Scanning Menu")
 
 2. Click View Re-scan Queue.  
     The View Rescan Queue screen appears.

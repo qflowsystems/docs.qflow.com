@@ -7,7 +7,7 @@ has_toc: true
 ---
 # Special User Privileges
 
-Q-Action offers different privileges that can be set up for roles, positions, users, or organizations.
+QAction offers different privileges that can be set up for roles, positions, users, or organizations.
 
 The end-users have the ability to add content to the system, but these special privilege users can manipulate how the information is added to the system.
 

@@ -10,7 +10,7 @@ has_toc: false
 Administrators can add files to the Downloads window, so users can find especially important files in one centralized place. Sometimes this is used to share specialized user guides that are unique to your business process.  
  
 1. In the top-right of the application, click Help > Downloads.  
-    ![](/assets/images/q-action-downloads-window-admin.PNG)
+    ![](/assets/images/QAction-downloads-window-admin.PNG)
 
 2. In the Downloads window, click the title of a user guides to download, save, and view it.
 

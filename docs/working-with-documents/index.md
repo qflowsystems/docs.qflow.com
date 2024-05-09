@@ -7,11 +7,11 @@ has_toc: false
 ---
 # Document Management Introduction
 ---
-Q-Action is an out-of-the-box Enterprise Content Management (ECM) application package. With Q-Action, your organization can store and organize all of its paper documents, electronic files, and emails in a single, integrated repository. The system uses security policies to protect documents from unauthorized access.
+QAction is an out-of-the-box Enterprise Content Management (ECM) application package. With QAction, your organization can store and organize all of its paper documents, electronic files, and emails in a single, integrated repository. The system uses security policies to protect documents from unauthorized access.
 
 To learn about the workflow capabilities of the application, refer to the [Workflow Functionality](/docs/workflows-and-tasks/) content.
 
-This section discusses all document capabilities available in Q-Action (ex. adding, editing, and searching for documents).  There are also add-ins available for other applications to interface with Q-Action, which you can read more about [here](/docs/using-add-ins/).
+This section discusses all document capabilities available in QAction (ex. adding, editing, and searching for documents).  There are also add-ins available for other applications to interface with QAction, which you can read more about [here](/docs/using-add-ins/).
 
 This electronic storage solution is beneficial for the following reasons:
 
@@ -21,7 +21,7 @@ This electronic storage solution is beneficial for the following reasons:
 *   It is suitable for small to large organizations.
 *   Because the application is web-based, users can access documents from distributed locations.  
 
-The following are some of Q-Action's capabilities:
+The following are some of QAction's capabilities:
 
 *   Store electronic document
 *   Check out/in documents for version control
