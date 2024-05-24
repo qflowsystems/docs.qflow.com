@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Learn More
 ---
 # Learn More
