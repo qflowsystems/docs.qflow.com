@@ -18,7 +18,7 @@ View a search result item by clicking on its blue title.  In the screen shot ab
 
 Select a result by clicking on its checkbox at the right of the screen.  Some search screens will only allow you to select one item at a time.  Search screens that allow you to select multiple items at a time will have a Select All checkbox at the top, which will select all items you see on the screen.  
 
-The Actions menu at the top of the screen lists actions you can perform on all selected items.  The Actions menu to the left of each item lists the actions you can take on that specific item.  Most search screens just allow you to view, print, or view/add Notes.  There are many more actions that users can take on Documents specifically; learn more in [Document Actions Overview](/docs/working-with-documents/document-actions/#document-actions-overview).
+The Actions menu at the top of the screen lists actions you can perform on all selected items.  The Actions menu to the left of each item lists the actions you can take on that specific item.  Most search screens just allow you to view, print, view/add Notes, or Re-Index.  There are many more actions that users can take on Documents specifically; learn more in [Document Actions Overview](/docs/working-with-documents/document-actions/#document-actions-overview).
 
 Some search results may have a Pop-Out Icon (![](/assets/images/CustomObjectViewIcon.png)) next to one or more data fields.  Fields with that icon represent [Custom Objects](/docs/custom-objects/), which can be viewed by clicking the Pop-Out Icon.
 

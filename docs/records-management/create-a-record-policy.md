@@ -9,9 +9,9 @@ has_toc: false
 
 Only Application Administrators can manage Record Policies.
 
-To create a Record Policy, open the appropriate Administration screen to locate and then edit the Custom Object Definition, Folder Definition, or Classification you wish to create the policy for.  If Records Management is enabled, there is a Retention Tab on the Add/Modify screen.
+To create a Record Policy, open the appropriate Administration screen to locate and then edit the Custom Object Definition, Folder Definition, or Classification you wish to create the policy for.  If Records Management is enabled, there is a Disposition Tab on the Add/Modify screen.
 
-Retention Tab on an Example Custom Object Definition Screen  
+Disposition Tab on an Example Custom Object Definition Screen  
 ![](/assets/images/retention-tab-custom-object.png)
 
 Click Add Policy to create a Record Policy for the Definition/Classification you are editing.
