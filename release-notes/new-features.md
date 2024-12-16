@@ -6,7 +6,7 @@ title: What's New?
 This page is used within Q-Action to display an internal pop-up. It is important to mark all links {:target="\_blank"} and to consider how the contents of this page will fit into the pop-up size.
 {% endcomment %}
 # What's New?
-- Updated look and feel with [modern icons](release-notes/learn-more){:target="_blank"}.
+- Updated look and feel with [modern icons](learn-more){:target="_blank"}.
 - When [searching on a hierarchy folder field](/docs/performing-searches/types-of-search-filters.html#hierarchy-filters){:target="_blank"}, anchored to a specific group, suggestions now display options within the correct group.
 - Previews for extended-length task notes can also show rich text formatting.
 

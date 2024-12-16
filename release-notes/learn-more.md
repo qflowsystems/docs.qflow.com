@@ -16,7 +16,11 @@ ECF now has a slicker look and feel:
 … Compared to the old:
 ![](/assets/images/icon-updates-old-splash.png)
 
+
 Icons are sharper and modernized:
+
 ![](/assets/images/icon-updates-new-docs.png) …Compared to the old: ![](/assets/images/icon-updates-old-docs.png)
+
 Action menus are more crisp:
+
 ![](/assets/images/icon-updates-new-actions.png)... Compared to the old:![](/assets/images/icon-updates-old-actions.png)
