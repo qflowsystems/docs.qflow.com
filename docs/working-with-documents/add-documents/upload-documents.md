@@ -37,7 +37,9 @@ See [Handling Add Document Errors](/docs/working-with-documents/add-documents/ha
 5.  Select one of the uploading documents and enter the index data for it.  You must first select a Classification before other index fields will appear.  
     ![](/assets/images/Upload-Documents-Classification-Selected-Example.PNG)  
     
-6.  To add the document without initiating a workflow, even if that document type or classification is linked to a workflow, turn the Add to Backfile toggle on.  
+6. <a name="Initiate_Workflow"></a>The <b>Initiate Workflow</b> toggle will appear if there is a workflow configured for the selected Classification/Document Type and the user has the ability to choose whether or not to initiate the workflow. Turn the toggle on to initiate the configured workflow after adding the document; turn the toggle off to add the document to the system without initiating a workflow.
+   - Administrators can configure the default value for this toggle, so it may appear on or off by default depending on the selected Classification/Document Type.
+   - Administrators can also configure workflows to launch without offering the user the choice, in which case the toggle will not appear but a workflow will still be launched.
 7.  If the same index fields will apply to multiple documents, you can toggle on Copy Index Values Forward.  When that toggle is on, if there are multiple documents in the Uploading pane, the index fields will remain filled out for the next document in the queue.  The user can still tweak the index values on individual documents as needed before adding each one to the system.
 8.  Click Add Document.  
     The selected document is added to the system with the entered index information, and the document disappears from the document queue.  
