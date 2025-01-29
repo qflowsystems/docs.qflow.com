@@ -7,7 +7,7 @@ This page is used within Q-Action to display an internal pop-up. It is important
 {% endcomment %}
 # What's New?
 - New "Preview PDFs In" [user preference](/docs/user-preferences/index){:target="_blank"} determines how PDF previews appear.
-- The "Add to Backfile" toggle has been renamed to "[Initiate Workflow]("%2Fdocs%2Fworking-with-documents%2Fadd-documents%2Fupload-documents#Initiate_Workflow"){:target="blank"}" when adding documents, and will no longer display when it is not relevant to the user.
+- The "Add to Backfile" toggle has been renamed to "[Initiate Workflow](/docs/working-with-documents/add-documents/upload-documents#Initiate_Workflow){:target="blank"}" when adding documents, and will no longer display when it is not relevant to the user.
 - Administrators can customize workflow tasks to exclude the "Put Back" option for tasks that should never be returned to the group inbox. 
 # Did You Know?
 - Check out the Help > Downloads tab for helpful instructions for common issues and functionality.
