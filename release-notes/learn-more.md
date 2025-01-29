@@ -5,22 +5,9 @@ title: Learn More
 # Learn More
 Below are the  main changes that have been made to the application since the last major customer release.  For an entire history of all changes to the application, see the [Release Notes](/release-notes/).
 
-1.  Updated look and feel with modern icons. (See below.)
-2. When searching on a hierarchy folder field anchored to a specific group, suggestions now display options within the correct group.
-3. Previews for extended-length task notes can also show rich text formatting.
-
-### Icon Updates
-
-ECF now has a slicker look and feel:
-![](/assets/images/icon-updates-new-splash.png)
-… Compared to the old:
-![](/assets/images/icon-updates-old-splash.png)
-
-
-Icons are sharper and modernized:
-
-![](/assets/images/icon-updates-new-docs.png) …Compared to the old: ![](/assets/images/icon-updates-old-docs.png)
-
-Action menus are more crisp:
-
-![](/assets/images/icon-updates-new-actions.png)... Compared to the old:![](/assets/images/icon-updates-old-actions.png)
+1. New administrative option to exclude "Put Back" option for select workflow tasks.
+2. New [user preference](/docs/user-preferences/index){:target="_blank"} allows users to decide whether to preview PDFs in a full screen overlay to focus just on the PDF, or in a pop-up which allows for viewing application data alongside the PDF.
+3. Updates to the "Add to Backfile" toggle:
+	- The toggle has been renamed to "[Initiate Workflow]("%2Fdocs%2Fworking-with-documents%2Fadd-documents%2Fupload-documents#Initiate_Workflow"){:target="blank"}".
+	- The toggle will only display when there is an Initiating Docs setting for the selected Classification/Document Type AND the setting allows the user to choose not to initiate the workflow.
+	- The toggle will only display when there is an Initiating Docs setting for the selected Classification/Document Type AND the setting allows the user to choose not to initiate the workflow.
