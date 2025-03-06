@@ -35,8 +35,7 @@ See [Handling Add Document Errors](/docs/working-with-documents/add-documents/ha
     *   If you want to delete several documents from the upload queue at once, click the Edit link at the top of the screen.  This allows you to select multiple items in the upload queue and then delete them all in once click.  Click Done to go back to indexing the remaining documents.  
         ![](/assets/images/delete-documents.png)
 5.  Select one of the uploading documents and enter the index data for it.  You must first select a Classification before other index fields will appear.  
-    ![](/assets/images/Upload-Documents-Classification-Selected-Example.PNG)  
-    
+    ![](/assets/images/Upload-Documents-Classification-Selected-Example.png)    
 6. <a name="Initiate_Workflow"></a>The <b>Initiate Workflow</b> toggle will appear if there is a workflow configured for the selected Classification/Document Type and the user has the ability to choose whether or not to initiate the workflow. Turn the toggle on to initiate the configured workflow after adding the document; turn the toggle off to add the document to the system without initiating a workflow.
    - Administrators can configure the default value for this toggle, so it may appear on or off by default depending on the selected Classification/Document Type.
    - Administrators can also configure workflows to launch without offering the user the choice, in which case the toggle will not appear but a workflow will still be launched.
