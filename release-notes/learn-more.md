@@ -5,10 +5,9 @@ title: Learn More
 # Learn More
 Below are the  main changes that have been made to the application since the last major customer release.  For an entire history of all changes to the application, see the [Release Notes](/release-notes/).
 ### New Features
-- Updated grid display for hierarchy fields to show the user or organization name first for ease of viewing.
-- New ability for workflows to convert .docx documents to .pdf.
+- Multi-value LOV fields can now be configured to display values based on the user’s selection in a different single-value LOV field.
 ### Bug Fixes
-- Fixed formatting on automated emails that include attachments.
+- Fix issue renaming LOVs on administrative screen.
+- Add support for sub-processes in Timeline Export functionality.
 ### Under-the-Hood Enhancements
-- Expanded LOV API capabilities.
-- Page counts are now stored for all PDFs added to the system.
+- Improve content tracking.
